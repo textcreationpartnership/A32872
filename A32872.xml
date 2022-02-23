@@ -1,0 +1,3395 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Choyce drollery, songs &amp; sonnets being a collection of divers excellent pieces of poetry, of severall eminent authors, never before printed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 105 KB of XML-encoded text transcribed from 53 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32872</idno>
+            <idno type="STC">Wing C3916</idno>
+            <idno type="STC">ESTC R18525</idno>
+            <idno type="EEBO-CITATION">11747605</idno>
+            <idno type="OCLC">ocm 11747605</idno>
+            <idno type="VID">48546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48546)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 486:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Choyce drollery, songs &amp; sonnets being a collection of divers excellent pieces of poetry, of severall eminent authors, never before printed.</title>
+                  <author>R. P.</author>
+               </titleStmt>
+               <extent>[4], 100 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.G. for Robert Pollard, and John Sweeting,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>To the Reader signed: R.P.</note>
+                  <note>Does not contain leaf mentioned in Hazlitt, having 10 lines of verse beginning "Fames Windy trump."</note>
+                  <note>It should be observed that in the preface the bookseller speaks of this as the "second" collection of the kind issued by him.</note>
+                  <note>This book was ordered to be burned May 8 [1656?] cf. Sotheby catalogue.  Sotheby (Britwell sale) April 1, 1924.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English.</term>
+               <term>English poetry --  Early modern, 1500-1700.</term>
+               <term>English wit and humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48546:1"/>
+            <pb facs="tcp:48546:1"/>
+            <p>
+               <hi>Choyce</hi> DROLLERY: SONGS &amp; SONNETS.</p>
+            <p>
+               <hi>BEING</hi> A Collection of divers excel. lent pieces of Poetry, <hi>OF</hi> Severall eminent Authors.</p>
+            <p>
+               <hi>Never before printed.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. G.</hi> for <hi>Robert Pollard,</hi> at the <hi>Ben Johnſon's</hi> head behind the Ex<g ref="char:EOLhyphen"/>change, and <hi>John Sweeting,</hi> at the <hi>Angel</hi> in Popes-head Alley.</p>
+            <p>1656.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:48546:2"/>
+            <pb facs="tcp:48546:2"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Hy grateful reception of our firſt Collection hath induced us to a ſecond eſſay of the ſame nature; which, as we are confident, it is not inferiour to the former in worth, ſo we aſſure our ſelves, upon thy already experimented Candor, that it ſhall at leaſt e<g ref="char:EOLhyphen"/>quall it in its fortunate accepta<g ref="char:EOLhyphen"/>tion. We ſerve up theſe Deli<g ref="char:EOLhyphen"/>cates
+<pb facs="tcp:48546:3"/>
+by frugall Meſſes, as ai<g ref="char:EOLhyphen"/>ming at thy Satisfaction, not Saciety. But our deſigne being more upon thy judgement, than patience, more to delight thee, than to detain thee in the portall of a tedious, and ſeldome-read Epiſtle; we draw this diſplea<g ref="char:EOLhyphen"/>ſing Curtain, that intercepts thy (by this time) gravid, and al<g ref="char:EOLhyphen"/>moſt teeming fancy, and ſub<g ref="char:EOLhyphen"/>ſcribe,</hi>
+            </p>
+            <closer>
+               <signed>R. P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:48546:3"/>
+            <head>
+               <hi>Choice</hi> DROLLERY: SONGS <hi>AND</hi> SONNETS.</head>
+            <div type="poem">
+               <head>The broken Heart.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>DEare Love let me this evening dye,</l>
+                  <l>Oh ſmile not to prevent it,</l>
+                  <l>But uſe this oportunity,</l>
+                  <l>Or we ſhall both repent it:</l>
+                  <l>Frown quickly then, and break my heart,</l>
+                  <l>That ſo my way of dying</l>
+                  <l>May, though my life were full of ſmart,</l>
+                  <l>Be worth the worlds envying.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="2" facs="tcp:48546:4"/>
+                  <head>2.</head>
+                  <l>Some ſtriving knowledge to refine,</l>
+                  <l>Conſume themſelves with thinking,</l>
+                  <l>And ſome who friendſhip ſeale in wine</l>
+                  <l>Are kindly kill'd with drinking:</l>
+                  <l>And ſome are rackt on the' Indian coaſt,</l>
+                  <l>Thither by gain invited,</l>
+                  <l>Some are in ſmoke of battailes loſt,</l>
+                  <l>Whom Drummes not Lutes delighted.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Alas how poorely theſe depart,</l>
+                  <l>Their graves ffill unattended,</l>
+                  <l>Who dies not of a broken heart,</l>
+                  <l>Is not in death commended.</l>
+                  <l>His memory is ever ſweet,</l>
+                  <l>All praiſe and pity moving,</l>
+                  <l>Who kindly at his Miſtreſſe feet</l>
+                  <l>Doth dye with over-loving.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>And now thou frown'ſt, and now I dye,</l>
+                  <l>My corps by Lovers follow'd,</l>
+                  <l>Which ſtreight ſhall by dead lovers lye,</l>
+                  <l>For that ground's onely hollow'd:</l>
+                  <l>If Prieſt take't ill I have a grave,</l>
+                  <l>My death not well approving,</l>
+                  <l>The Poets my eſtate ſhall have</l>
+                  <l>To teach them th' art of loving.</l>
+               </lg>
+               <lg n="5">
+                  <pb n="3" facs="tcp:48546:4"/>
+                  <head>5.</head>
+                  <l>And now let Lovers ring their bells,</l>
+                  <l>For thy poore youth departed;</l>
+                  <l>Which every Lover els excels,</l>
+                  <l>That is not broken hearted.</l>
+                  <l>My grave with flowers let virgins ſtrow,</l>
+                  <l>For if thy teares fall neare them,</l>
+                  <l>They'l ſo excell in ſcent and ſhew,</l>
+                  <l>Thy ſelfe wilt ſhortly weare them.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Such Flowers how much will <hi>Flora</hi> priſe,</l>
+                  <l>That's on a Lover growing,</l>
+                  <l>And watred with his Miſtris eyes,</l>
+                  <l>With pity overflowing?</l>
+                  <l>A grave ſo deckt, well, though thou art</l>
+                  <l>Yet fearfull to come nigh me,</l>
+                  <l>Provoke thee ſtraight to break thy heart,</l>
+                  <l>And lie down boldly by me.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Then every where ſhall all bells ring,</l>
+                  <l>Whilſt all to blackneſſe turning,</l>
+                  <l>All torches burn, and all quires ſing,</l>
+                  <l>As Nature's ſelf were mourning.</l>
+                  <l>Yet we hereafter ſhall be found</l>
+                  <l>By Deſtiny's right placing,</l>
+                  <l>Making like Flowers, Love under ground,</l>
+                  <l>Whoſe Roots are ſtill embracing.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="4" facs="tcp:48546:5"/>
+               <head>Of a Woman that died for love of a Man.</head>
+               <lg>
+                  <l>NOr Love nor Fate dare I accuſe,</l>
+                  <l>Becauſe my Love did me refuſe:</l>
+                  <l>But oh! mine own unworthineſſe,</l>
+                  <l>That durſt preſume ſo mickle bliſſe;</l>
+                  <l>Too mickle'twere for me to love</l>
+                  <l>A thing ſo like the God above,</l>
+                  <l>An Angels face, a Saint-like voice,</l>
+                  <l>Were too divine for humane choyce.</l>
+               </lg>
+               <lg>
+                  <l>Oh had I wiſely given my heart,</l>
+                  <l>For to have lov'd him, but in part,</l>
+                  <l>Save onely to have lov'd his face</l>
+                  <l>For any one peculiar grace,</l>
+                  <l>A foot, or leg, or lip, or eye,</l>
+                  <l>I might have liv'd, where now I dye.</l>
+                  <l>But I that ſtriv'd all theſe to chuſe,</l>
+                  <l>Am now condemned all to loſe.</l>
+               </lg>
+               <lg>
+                  <l>You rurall Gods that guard the plains,</l>
+                  <l>And chaſt'neth unjuſt diſdains;</l>
+                  <l>Oh do not cenſure him him for this,</l>
+                  <l>It was my error, and not his.</l>
+                  <l>This onely boon of thee I crave,</l>
+                  <l>To fix theſe lines upon my grave,</l>
+                  <l>With <hi>lcarus</hi> I ſoare too high,</l>
+                  <l>For which (alas) I fall and dye.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="5" facs="tcp:48546:5"/>
+               <head>On the <hi>TIME-POETS.</hi>
+               </head>
+               <lg>
+                  <l>ONe night the great <hi>Apollo</hi> pleas'd with <hi>Ben,</hi>
+                  </l>
+                  <l>Made the odde number of the Muſes ten;</l>
+                  <l>The fluent <hi>Fletcher, Beaumont</hi> rich in ſenſe,</l>
+                  <l>In Complement and Courtſhips quinteſſence;</l>
+                  <l>Ingenious <hi>Shakeſpeare, Maſſinger</hi> that knowes</l>
+                  <l>The ſtrength of Plot to write in verſe and proſe:</l>
+                  <l>Whoſe eaſie Pegaſſus will amble ore</l>
+                  <l>Some threeſcore miles of Fancy in an houre;</l>
+                  <l>Cloud-grapling <hi>Chapman,</hi> whoſe Aerial minde</l>
+                  <l>Soares at Philoſphy, and ſtrikes it blinde;</l>
+                  <l>
+                     <hi>Danbourn</hi> I had forgot, and let it be,</l>
+                  <l>He dy'd Amphibion by the Miniſtry;</l>
+                  <l>
+                     <hi>Silvester, Bartas,</hi> whoſe tranſlatique part</l>
+                  <l>Twinn'd, or was elder to our Laureat:</l>
+                  <l>Divine compoſing <hi>Quarles,</hi> whoſe lines aſpire</l>
+                  <l>The April of all Poeſy in May,</l>
+                  <l>
+                     <pb n="6" facs="tcp:48546:6"/>Who makes our Engliſh ſpeak <hi>Pharſalia;</hi>
+                  </l>
+                  <l>
+                     <hi>Sands</hi> metamorphos'd ſo into another</l>
+                  <l>We know not <hi>Sands</hi> and <hi>Ovid</hi> from each other;</l>
+                  <l>He that ſo well on <hi>Scotus</hi> play'd the Man,</l>
+                  <l>The famous <hi>Diggs,</hi> or <hi>Leonard Claudian;</hi>
+                  </l>
+                  <l>The pithy <hi>Daniel,</hi> whoſe ſalt lines afford</l>
+                  <l>A weighty ſentence in each little word;</l>
+                  <l>Heroick <hi>Draiton, Withers,</hi> ſmart in Rime,</l>
+                  <l>The very Poet-Beadles of the Time:</l>
+                  <l>Panns paſtorall <hi>Brown,</hi> whoſe infant Muſe did ſqueak</l>
+                  <l>At eighteen yeares, better than others ſpeak:</l>
+                  <l>
+                     <hi>Shirley</hi> the morning-child, the Muſes bred,</l>
+                  <l>And ſent him born with bayes upon his head:</l>
+                  <l>Deep in a dump <hi>John Ford</hi> alone was got</l>
+                  <l>With folded armes and melancholly hat;</l>
+                  <l>The ſquibbing <hi>Middleton,</hi> and <hi>Haywood</hi> ſage,</l>
+                  <l>Th'Apologetick Atlas of the Stage;</l>
+                  <l>Well of the Golden age he could intreat,</l>
+                  <l>But little of the Mettal he could get;</l>
+                  <l>Threeſcore ſweet Babes he faſhion'd from the lump,</l>
+                  <l>For he was Chriſt'ned in <hi>Parnaſſus</hi> pump;</l>
+                  <l>The Muſes Goſſip to <hi>Aurora</hi>'s bed,</l>
+                  <l>And ever ſince that time his face was red.</l>
+                  <l>Thus through the horrour of infernall deeps,</l>
+                  <l>With equal pace each of them ſoftly creeps,</l>
+                  <l>And being dark they had <hi>Alectors</hi> torch,</l>
+                  <l>And that made <hi>Churchyard</hi> follow from his Porch,</l>
+                  <l>Poor, ragged, torn, &amp; tackt, alack, alack,</l>
+                  <l>You'd think his clothes were pinn'd upon his back.</l>
+                  <l>
+                     <pb n="7" facs="tcp:48546:6"/>The whole frame hung with pins, to mend which clothes,</l>
+                  <l>In mirth they ſent him to old Father Proſe;</l>
+                  <l>Of theſe ſad Poets this way ran the ſtream,</l>
+                  <l>And <hi>Decker</hi> followed after in a dream;</l>
+                  <l>
+                     <hi>Rounce, Robble, Hobble,</hi> he that writ ſo high big</l>
+                  <l>Baſſe for a Ballad, <hi>John Shank</hi> for a Jig:</l>
+                  <l>Sent by <hi>Ben Johnſon,</hi> as ſome Authors ſay,</l>
+                  <l>
+                     <hi>Broom</hi> went before and kindly ſwept the way:</l>
+                  <l>Old <hi>Chaucer</hi> welcomes them unto the Green,</l>
+                  <l>And <hi>Spencer</hi> brings them to the fairy Queen;</l>
+                  <l>The finger they preſent, and ſhe in grace</l>
+                  <l>Transform'd it to a May-pole'bout which trace</l>
+                  <l>Her skipping ſervants, that do nightly ſing,</l>
+                  <l>And dance about the ſame a Fayrie Ring.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="8" facs="tcp:48546:7"/>
+               <head>The Vow-breaker.</head>
+               <lg>
+                  <l>WHen firſt the Magick of thine eye</l>
+                  <l>Uſurpt upon my liberty,</l>
+                  <l>Triumphing in my hearts ſpoyle, thou</l>
+                  <l>Didſt lock up thine in ſuch a vow:</l>
+                  <l>When I prove falſe, may the bright day</l>
+                  <l>Be govern'd by the Moones pale ray,</l>
+                  <l>(As I too well remember) this</l>
+                  <l>Thou ſaidſt, and ſeald'ſt it with a kiſſe.</l>
+               </lg>
+               <lg>
+                  <l>Oh heavens! and could ſo ſoon that tye</l>
+                  <l>Relent in ſad apoſtacy?</l>
+                  <l>Could all thy Oaths and mortgag'd truſt,</l>
+                  <l>Baniſh like Letters form'd in duſt,</l>
+                  <l>Which the next wind ſcatters? take heed,</l>
+                  <l>Take heed Revolter; know this deed</l>
+                  <l>Hath wrong'd the world, which will fare worſe</l>
+                  <l>By thy example, than thy curſe.</l>
+               </lg>
+               <lg>
+                  <l>Hide that falſe brow in miſts; thy ſhame</l>
+                  <l>Ne're ſee light more, but the dimme flame</l>
+                  <l>Of Funerall-lamps; thus ſit and moane,</l>
+                  <l>And learn to keep thy guilt at home;</l>
+                  <l>Give it no vent, for if agen</l>
+                  <l>Thy love or vowes betray more men,</l>
+                  <l>At length I feare thy perjur'd breath</l>
+                  <l>Will blow out day, and waken death.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="9" facs="tcp:48546:7"/>
+               <head>The Sympathie.</head>
+               <lg>
+                  <l>IF at this time I am derided,</l>
+                  <l>And you pleaſe to laugh at me,</l>
+                  <l>Know I am not unprovided</l>
+                  <l>Every way to anſwer thee,</l>
+                  <l>Love, or hate, what ere it be.</l>
+               </lg>
+               <lg>
+                  <l>Never Twinns ſo nearly met</l>
+                  <l>As thou and I in our affection,</l>
+                  <l>When thou weepſt my eys are wet,</l>
+                  <l>That thou lik'ſt is my election,</l>
+                  <l>I am in the ſame ſubjection.</l>
+               </lg>
+               <lg>
+                  <l>In one center we are both,</l>
+                  <l>Both our lives the ſame way tending,</l>
+                  <l>Do thou refuſe, and I ſhall loath,</l>
+                  <l>As thy eyes, ſo mine are bending,</l>
+                  <l>Either ſtorm or calm portending.</l>
+               </lg>
+               <lg>
+                  <l>I am careleſſe if deſpiſed,</l>
+                  <l>For I can contemn again;</l>
+                  <l>How can I be then ſurpriſed,</l>
+                  <l>Or with ſorrow, or with pain,</l>
+                  <l>When I can both love &amp; diſdain?</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="10" facs="tcp:48546:8"/>
+               <head>The Red head and the White.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>COme my White head, let our Muſes</l>
+                  <l>Vent no ſpleen againſt abuſes,</l>
+                  <l>Nor ſcoffe at monſtrous ſignes i'th' noſe,</l>
+                  <l>Signes in the Teeth, or in the Toes,</l>
+                  <l>Nor what now delights us moſt,</l>
+                  <l>The ſign of ſignes upon the poſt.</l>
+                  <l>For other matter we are ſped,</l>
+                  <l>And our ſigne ſhall be i'th' head.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Oh! <hi>Will<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Rufus,</hi> who would paſſe,</l>
+                  <l>Unleſſe he were a captious Aſſe;</l>
+                  <l>The Head of all the parts is beſt,</l>
+                  <l>And hath more ſenſes then the reſt.</l>
+                  <l>This ſubject then in our defence</l>
+                  <l>Will clear our Poem of non-ſenſe.</l>
+                  <l>Beſides, you know, what ere we read,</l>
+                  <l>We uſe to bring it to a head.</l>
+               </lg>
+               <lg n="1">
+                  <pb n="11" facs="tcp:48546:8"/>
+                  <head>1.</head>
+                  <l>Why there's no other part we can</l>
+                  <l>Stile Monarch o're this Iſle of man:</l>
+                  <l>'Tis that that weareth Nature's crown,</l>
+                  <l>'Tis this doth ſmile, 'tis this doth frown,</l>
+                  <l>O what a prize and triumph 'twere,</l>
+                  <l>To make this King our Subject here:</l>
+                  <l>Believ'e, 'tis true what we have ſed,</l>
+                  <l>In this we hit the naile o'th' head.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Your nailes upon my head Sir, Why?</l>
+                  <l>How do you thus to villifie</l>
+                  <l>The King of Parts, 'mongſt all the reſt,</l>
+                  <l>Or if no king, methinks at leaſt,</l>
+                  <l>To mine you ſhould give no offence,</l>
+                  <l>That weares the badge of Innocence;</l>
+                  <l>Thoſe blowes would far more juſtly light</l>
+                  <l>On thy red skull, for mine is white.</l>
+               </lg>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>Come on yfaith, that was well ſed,</l>
+                  <l>A pretty boy, hold up thy head,</l>
+                  <l>Or hang it down, and bluſh apace,</l>
+                  <l>And make it like mines native grace.</l>
+                  <l>There's ne're a Bung-hole in the town</l>
+                  <l>But in the working puts thine down,</l>
+                  <l>A byle that's drawing to a head</l>
+                  <l>Looks white like thine, but mine is red.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="10" facs="tcp:48546:9"/>
+                  <head>2.</head>
+                  <l>Poore foole, 'twas ſhame did firſt invent</l>
+                  <l>The colour of thy Ornament,</l>
+                  <l>And therefore thou art much too blame</l>
+                  <l>To boaſt of that which is thy ſhame;</l>
+                  <l>The Roman Prince that Poppeys topt,</l>
+                  <l>Did ſhew ſuch Red heads ſhould be cropt:</l>
+                  <l>And ſtill the Turks for poyſon ſmite</l>
+                  <l>Such Ruddy skulls, but mine is white.</l>
+               </lg>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>The Indians paint their Devils ſo,</l>
+                  <l>And 'tis a hated mark we know,</l>
+                  <l>For never any aim aright</l>
+                  <l>That do not ſtrive to hit the white:</l>
+                  <l>The Eagle threw her ſhell-fiſh down,</l>
+                  <l>To crack in pieces ſuch a crown:</l>
+                  <l>Alas, a ſtinking onions head</l>
+                  <l>Is white like thine, but mine is red.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Red like to a blood-ſhot eye,</l>
+                  <l>Provoking all that ſee't to cry:</l>
+                  <l>For ſhame nere vaunt thy colours thus</l>
+                  <l>Since 'tis an eye-ſore unto us;</l>
+                  <l>Thoſe locks I'd ſwear, did I not know't,</l>
+                  <l>Were threds of ſome red petticoat;</l>
+                  <l>No Bedlams oaker'd armes afright</l>
+                  <l>So much as thine, but mine is white.</l>
+               </lg>
+               <lg n="1">
+                  <pb n="13" facs="tcp:48546:9"/>
+                  <head>1.</head>
+                  <l>Now if thon'lt blaze thy armes Ile ſhew't,</l>
+                  <l>My head doth love no petticoat,</l>
+                  <l>My face on one ſide is as faire</l>
+                  <l>As on the other is my haire,</l>
+                  <l>So that I bear by Heraulds rules,</l>
+                  <l>Party per pale Argent and Gules.</l>
+                  <l>Then laugh not 'cauſe my head is red,</l>
+                  <l>Ile ſwear that mine's a noble head.</l>
+               </lg>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>The Scutcheon of my field doth beare</l>
+                  <l>One onely field, and that is rare,</l>
+                  <l>For then methinks that thine ſhould yeild,</l>
+                  <l>Since mine long ſince hath won the field;</l>
+                  <l>Beſides, all the notes that be,</l>
+                  <l>White is the note of Chaſtity,</l>
+                  <l>So that without all feare or dread,</l>
+                  <l>Ile ſweare that mine's a maidenhead.</l>
+               </lg>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>There's no Camelion red like me,</l>
+                  <l>Nor white, perhaps, thou'lt ſay, like thee;</l>
+                  <l>Why then that mine is farre above</l>
+                  <l>Thy haire, by ſtatute I can prove;</l>
+                  <l>What ever there doth ſeem divine</l>
+                  <l>Is added to a Rubrick line,</l>
+                  <l>Which whoſoever hath but read,</l>
+                  <l>Will grant that mine's a lawful head.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="14" facs="tcp:48546:10"/>
+                  <head>2.</head>
+                  <l>Yet adde what thou maiſt, which by yeares,</l>
+                  <l>Croſſes, troubles, cares and feares,;</l>
+                  <l>For that kinde nature gave to me</l>
+                  <l>In youth a white head, as you ſee,</l>
+                  <l>At which, though age it ſelfe repine,</l>
+                  <l>It ne're ſhall change a haire of mine;</l>
+                  <l>And all ſhall ſay when I am am dead,</l>
+                  <l>I onely had a conſtant head.</l>
+               </lg>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>Yes faith, in that Ile condeſcend,</l>
+                  <l>That our diſſention here may end,</l>
+                  <l>Though heads be alwaies by the eares,</l>
+                  <l>Yet ours ſhall be more noble peeres:</l>
+                  <l>For I avouch ſince I began,</l>
+                  <l>Under a colour all was done.</l>
+                  <l>Then let us mix the White and Red,</l>
+                  <l>And both ſhall make a beauteous head.</l>
+               </lg>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>We mind our heads man all this time</l>
+                  <l>And beat them both about this rime;</l>
+                  <l>And I confeſſe what gave offence</l>
+                  <l>Was but a haires difference.</l>
+                  <l>And that went too as I dare ſweare</l>
+                  <l>In both of us againſt the haire;</l>
+                  <l>Then joyntly now for what is ſaid</l>
+                  <l>Lets crave a pardon from our head.</l>
+               </lg>
+            </div>
+            <div type="sonnet">
+               <pb n="15" facs="tcp:48546:10"/>
+               <head>SONNET.</head>
+               <lg>
+                  <l>SHall I think becauſe ſome clouds</l>
+                  <l>The beauty of my Miſtriſs ſhrouds,</l>
+                  <l>To look after another Star?</l>
+                  <l>Thoſe to <hi>Cynthia</hi> ſervants are;</l>
+                  <l>May the ſtars when I doe ſue,</l>
+                  <l>In their anger ſhoot me through;</l>
+                  <l>Shall I ſhrink at ſtormes of rain,</l>
+                  <l>Or be driven back again,</l>
+                  <l>Or ignoble like a worm,</l>
+                  <l>Be a ſlave unto a ſtorm?</l>
+                  <l>Pity he ſhould ever taſt</l>
+                  <l>The Spring that feareth Winters blaſt;</l>
+                  <l>Fortune and Malice then combine,</l>
+                  <l>Spight of either I am thine;</l>
+                  <l>And to be ſure keep thou my heart,</l>
+                  <l>And let them wound my worſer part,</l>
+                  <l>Which could they kill, yet ſhould I bee</l>
+                  <l>Alive again, when pleaſeth thee.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="16" facs="tcp:48546:11"/>
+               <head>On the Flower-de-luce in <hi>Oxford.</hi>
+               </head>
+               <lg>
+                  <l>A Stranger coming to the town,</l>
+                  <l>Went to the <hi>Flower-de-luce,</hi>
+                  </l>
+                  <l>A place that ſeem'd in outward ſhew</l>
+                  <l>For honeſt men to uſe;</l>
+               </lg>
+               <lg>
+                  <l>And finding all things common there,</l>
+                  <l>That tended to delight,</l>
+                  <l>By chance upon the French diſeaſe</l>
+                  <l>It was his hap to light.</l>
+               </lg>
+               <lg>
+                  <l>And leſt that other men ſhould fare</l>
+                  <l>As he had done before,</l>
+                  <l>As he went forth he wrote this down</l>
+                  <l>Upon the utmoſt doore.</l>
+               </lg>
+               <lg>
+                  <l>All you that hither chance to come,</l>
+                  <l>Mark well ere you be in,</l>
+                  <l>The <hi>Frenchmens</hi> arms are ſigns without</l>
+                  <l>Of <hi>Frenchmens</hi> harms within.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="17" facs="tcp:48546:11"/>
+               <head>ALDOBRANDINO, a fat Cardinal.</head>
+               <lg>
+                  <l>NEver was humane ſoule ſo overgrown,</l>
+                  <l>With an unreaſonable Cargazon</l>
+                  <l>Of fleſh, as <hi>Aldobrandine,</hi> whom to pack,</l>
+                  <l>No girdle ſerv'd leſſe than the zodiack:</l>
+                  <l>So thick a Giant, that he now was come</l>
+                  <l>To be accounted an eighth hill in <hi>Rome,</hi>
+                  </l>
+                  <l>And as the learn'd <hi>Toſtatus</hi> kept his age,</l>
+                  <l>Writing for every day he liv'd a page;</l>
+                  <l>So he no leſſe voluminous then that</l>
+                  <l>Added each day a leaf, but 'twas of fat.</l>
+               </lg>
+               <lg>
+                  <l>The choiceſt beauty that had been devis'd</l>
+                  <l>By Nature, was by her parents ſacrific'd</l>
+                  <l>Up to this Monſter, upon whom to try,</l>
+                  <l>If as increaſe, he could, too, multiply.</l>
+               </lg>
+               <lg>
+                  <l>Oh how I tremble leſt the tender maid</l>
+                  <l>Should dye like a young infant over-laid!</l>
+                  <l>For when this Chaos would pretend to move</l>
+                  <l>And arch his back for the ſtrong act of Love,</l>
+                  <l>He fals as ſoon orethrown with his own weight,</l>
+                  <l>And with his ruines doth the Princeſſe fright.</l>
+                  <l>She (lovely Martyr) there lyes ſtew'd and preſt,</l>
+                  <l>Like fleſh under the tarr'd ſaddle dreſt,</l>
+                  <l>And ſeemes to thoſe that look on them in bed,</l>
+                  <l>Larded with him, rather then married.</l>
+               </lg>
+               <lg>
+                  <pb n="18" facs="tcp:48546:12"/>
+                  <l>Oft did he cry, but ſtill in vain to force</l>
+                  <l>His fatneſſe powerfuller then a divorce:</l>
+                  <l>No herbs, no midwives profit here, nor can</l>
+                  <l>Of his great belly free the teeming man.</l>
+                  <l>What though he drink the vinegars moſt fine,</l>
+                  <l>They do not waſt his fleſhy Apennine;</l>
+                  <l>His paunch like ſome huge Iſtmos runs between</l>
+                  <l>The amarous Seas, and lets them not be ſeen;</l>
+                  <l>Yet a new <hi>Dedalus</hi> invented how</l>
+                  <l>This Bull with his Paſiphae might plow.</l>
+               </lg>
+               <lg>
+                  <l>Have you thoſe artificial torments known,</l>
+                  <l>With which long ſunken Galeos are thrown</l>
+                  <l>Again on Sea, or the dead Galia</l>
+                  <l>Was rais'd that once behinde St. <hi>Peters</hi> lay:</l>
+                  <l>By the ſame rules he this ſame engine made,</l>
+                  <l>With ſilken cords in nimble pullies laid;</l>
+                  <l>And when his Genius prompteth his ſlow part</l>
+                  <l>To works of Nature, which he helps with Art:</l>
+                  <l>Firſt he intangles in thoſe woven bands,</l>
+                  <l>His groveling weight, and ready to commands,</l>
+                  <l>The ſworn Prinadas of his bed, the Aids</l>
+                  <l>Of Loves Camp, neceſſary Chambermaids;</l>
+                  <l>Each runs to her known tackling, haſts to hoyſe,</l>
+                  <l>And in juſt diſtance of the urging voyce,</l>
+                  <l>Exhorts the labour till he ſmiling riſe</l>
+                  <l>To the beds roof, and wonders how he flies.</l>
+               </lg>
+               <lg>
+                  <l>Thence as the eager Falcon having ſpy'd</l>
+                  <l>Fowl at the brook, or by the Rivers ſide,</l>
+                  <l>Hangs in the middle Region of the aire,</l>
+                  <l>So hovers he, and plains above his faire<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="19" facs="tcp:48546:12"/>
+                  <l>Bleſt <hi>Icarus</hi> firſt melted at thoſe beames,</l>
+                  <l>That he might after fall into thoſe ſtreames,</l>
+                  <l>And there allaying his delicious flame,</l>
+                  <l>In that ſweet Ocean propogate his name.</l>
+               </lg>
+               <lg>
+                  <l>Unable longer to delay, he calls</l>
+                  <l>To be let down, and in ſhort meaſure falls</l>
+                  <l>Toward his Miſtreſſe, that without her ſmock</l>
+                  <l>Lies naked as <hi>Andromeda</hi> at the Rock,</l>
+                  <l>And through the Skies ſee her wing'd <hi>Perſeus</hi> ſtrike</l>
+                  <l>Though for his bulk, more that ſea-monſter like.</l>
+               </lg>
+               <lg>
+                  <l>Mean time the Nurſe, who as the moſt diſcreet,</l>
+                  <l>Stood governing the motions at the feet,</l>
+                  <l>And ballanc'd his deſcent, leſt that amiſſe</l>
+                  <l>He fell too faſt, or that way more than this;</l>
+                  <l>Steeres the Prow of the penſile Galleaſſe,</l>
+                  <l>Right on Loves Harbour the Nymph lets him paſs</l>
+                  <l>Over the Chains, &amp; 'tween the double Fort</l>
+                  <l>Of her incaſtled knees, which guard the Port,</l>
+               </lg>
+               <lg>
+                  <l>The Burs as ſhe had learnt ſtill diligent,</l>
+                  <l>Now girt him backwards, now him forwards bent;</l>
+                  <l>Like thoſe that levell'd in tough Cordage, teach</l>
+                  <l>The murall Ram, and guide it to the Breach.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="20" facs="tcp:48546:13"/>
+               <head>Jack of Lent's Ballat.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>LIſt you Nobles, and attend,</l>
+                  <l>For here's a Ballat newly penn'd</l>
+                  <l>I took it up in <hi>Kent,</hi>
+                  </l>
+                  <l>If any ask who made the ſame,</l>
+                  <l>To him I ſay the authors name</l>
+                  <l>Is honeſt <hi>Jack of Lent.</hi>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>But ere I farther paſſe along,</l>
+                  <l>Or let you know more of my Song,</l>
+                  <l>I wiſh the doores were lockt,</l>
+                  <l>For if there be ſo baſe a Groom,</l>
+                  <l>As one informes me in this room,</l>
+                  <l>The Fidlers may be knockt.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Tis true, he had, I dare proteſt,</l>
+                  <l>No kind of malice in his breſt,</l>
+                  <l>But Knaves are dangerous things;</l>
+                  <l>And they of late are grown ſo bold,</l>
+                  <l>They dare appeare in cloth of Gold,</l>
+                  <l>Even in the roomes of Kings.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="21" facs="tcp:48546:13"/>
+                  <head>4.</head>
+                  <l>But hit or miſſe I will declare</l>
+                  <l>The ſpeeches at London and elſewhere,</l>
+                  <l>Concerning this deſign,</l>
+                  <l>Amongſt the Drunkards it is ſaid,</l>
+                  <l>They hope her dowry ſhall be paid</l>
+                  <l>In nought but Clarret wine.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>The Country Clowns when they repaire</l>
+                  <l>Either to Market or to Faire,</l>
+                  <l>No ſooner get their pots,</l>
+                  <l>But ſtraight they ſwear the time is come</l>
+                  <l>That England muſt be over-run</l>
+                  <l>Betwixt the French and Scots.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>The Puritans that never fayle</l>
+                  <l>'Gainſt Kings and Magiſtrates to rayle,</l>
+                  <l>With impudence aver,</l>
+                  <l>That verily, and in good ſooth,</l>
+                  <l>Some Antichriſt, or pretty youth,</l>
+                  <l>Shall doubtleſſe get of her.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>A holy Siſter having hemm'd,</l>
+                  <l>And blow<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> her noſe, will ſay ſhe dream'd,</l>
+                  <l>Or elſe a Spirit told her,</l>
+                  <l>That they and all theſe holy ſeed,</l>
+                  <l>To Amſterdam muſt go to breed,</l>
+                  <l>Ere they were twelve months older.</l>
+               </lg>
+               <lg n="8">
+                  <pb n="22" facs="tcp:48546:14"/>
+                  <head>8.</head>
+                  <l>And might but <hi>Jack Alent</hi> adviſe,</l>
+                  <l>Thoſe dreams of theirs ſhould not prove lies,</l>
+                  <l>For as he greatly feares,</l>
+                  <l>They will be prating night and day,</l>
+                  <l>Till verily, by yea, and nay,</l>
+                  <l>They ſet's together by th' ears.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>The Romiſh Catholiques proclaim,</l>
+                  <l>That <hi>Gundemore,</hi> though he be lame,</l>
+                  <l>Yet can he do ſome tricks;</l>
+                  <l>At <hi>Paris,</hi> he the King ſhall ſhow</l>
+                  <l>A pre-contract made, as I know,</l>
+                  <l>Five hundred twenty ſix.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>But ſure the State of <hi>France</hi> is wiſe,</l>
+                  <l>And knowes that <hi>Spain</hi> vents nought but lies,</l>
+                  <l>For ſuch is their Religion;</l>
+                  <l>The Jeſuits can with eaſe diſgorge</l>
+                  <l>From that their damn'd and helliſh forge,</l>
+                  <l>Foule falſhood by the Legion.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>But be it ſo, we will admit,</l>
+                  <l>The State of <hi>Spain</hi> hath no more wit,</l>
+                  <l>Then to invent ſuch tales,</l>
+                  <l>Yet as great <hi>Alexander</hi> drew,</l>
+                  <l>And cut the Gorgon knot in two,</l>
+                  <l>So ſhall the Prince of <hi>Wales.</hi>
+                  </l>
+               </lg>
+               <lg n="12">
+                  <pb n="23" facs="tcp:48546:14"/>
+                  <head>12.</head>
+                  <l>The reverend Biſhops whiſper too,</l>
+                  <l>That now they ſhall have much adoe</l>
+                  <l>With Friers and with Monks,</l>
+                  <l>And eke their wives do greatly feare</l>
+                  <l>Thoſe bald pate knaves will mak't appeare</l>
+                  <l>They are Canonical punks.</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>At <hi>Cambridge</hi> and at <hi>Oxford</hi> eke,</l>
+                  <l>They of this match like Schollers ſpeak</l>
+                  <l>By figures and by tropes,</l>
+                  <l>But as for the Supremacy,</l>
+                  <l>The Body may King <hi>James</hi>'s be,</l>
+                  <l>But ſure the Head's the <hi>Pope</hi>'s.</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>A Puritan ſtept up and cries,</l>
+                  <l>That he the major part denies,</l>
+                  <l>And though he Logick ſcorns,</l>
+                  <l>Yet he by revelation knows</l>
+                  <l>The Pope no part o' th' head-piece ows</l>
+                  <l>Except it be the horns.</l>
+               </lg>
+               <lg n="15">
+                  <head>15.</head>
+                  <l>The learned in Aſtrologie,</l>
+                  <l>That wander up and down the sky,</l>
+                  <l>And their diſcourſe with ſtars,</l>
+                  <l>Foreſee that ſome of this brave rout</l>
+                  <l>That now goes faire and ſoundly out,</l>
+                  <l>Shall back return with ſcars.</l>
+               </lg>
+               <lg n="16">
+                  <pb n="24" facs="tcp:48546:15"/>
+                  <head>16.</head>
+                  <l>Profeſſors of Aſtronomy,</l>
+                  <l>That all the world knows, dare not lie</l>
+                  <l>With the Mathematicians,</l>
+                  <l>Prognoſticate this Somer ſhall</l>
+                  <l>Bring with the pox the Devil and all,</l>
+                  <l>To Surgeons and Phyſitians.</l>
+               </lg>
+               <lg n="17">
+                  <head>17.</head>
+                  <l>The Civil Lawyer laughs in's ſleeve,</l>
+                  <l>For he doth verily believe</l>
+                  <l>That after all theſe ſports,</l>
+                  <l>The Citzens will horn and grow,</l>
+                  <l>And their ill-gotten goods will throw</l>
+                  <l>About their bawdy Courts.</l>
+               </lg>
+               <lg n="18">
+                  <head>18.</head>
+                  <l>And thoſe that do <hi>Apollo</hi> court,</l>
+                  <l>And with the wanton Muſes ſport,</l>
+                  <l>Believe the time is come,</l>
+                  <l>That Gallants will themſelves addreſſe</l>
+                  <l>To Maſques &amp; Playes, &amp; Wantonneſſe,</l>
+                  <l>More than to fife and drum.</l>
+               </lg>
+               <lg n="19">
+                  <head>19.</head>
+                  <l>Such as in muſique ſpend their dayes,</l>
+                  <l>And</l>
+                  <l>And ſtudy Songs and Roundelayes,</l>
+                  <l>Begin</l>
+                  <l>Begin to cleare their throats,</l>
+                  <l>For by ſome ſignes they do preſage,</l>
+                  <l>That this will prove a fidling age</l>
+                  <l>Fit for men of their coats.</l>
+               </lg>
+               <lg n="20">
+                  <pb n="25" facs="tcp:48546:15"/>
+                  <head>20.</head>
+                  <l>But leaving Colleges and Schools.</l>
+                  <l>To all thoſe Clerks and learned Fools,</l>
+                  <l>Lets through the city range,</l>
+                  <l>For there are Sconces made of Horn,</l>
+                  <l>Foreſee things long ere they be born,</l>
+                  <l>Which you'l perhaps think ſtrange.</l>
+               </lg>
+               <lg n="21">
+                  <head>21.</head>
+                  <l>The Major and Aldermen being met,</l>
+                  <l>And at a Cuſtard cloſely ſet</l>
+                  <l>Each in their rank and order,</l>
+                  <l>The Major a queſtion doth propound,</l>
+                  <l>And that unanſwer'd muſt go round,</l>
+                  <l>Till it comes to th'Recorder.</l>
+               </lg>
+               <lg n="22">
+                  <head>22.</head>
+                  <l>For he's the City's Oracle,</l>
+                  <l>And which you'l think a Miracle,</l>
+                  <l>He hath their brains in keeping,</l>
+                  <l>For when a Cauſe ſhould be decreed,</l>
+                  <l>He cries the bench are all agreed,</l>
+                  <l>When moſt of them are ſleeping,</l>
+               </lg>
+               <lg n="23">
+                  <head>23.</head>
+                  <l>A Sheriff at lower end o'th' board</l>
+                  <l>Cries Maſters all hear me a word,</l>
+                  <l>A bolt Ile onely ſhoot,</l>
+                  <l>We ſhall have Executions ſtore</l>
+                  <l>Againſt ſome gallants now gone o're,</l>
+                  <l>Wherefore good brethren look to't.</l>
+               </lg>
+               <lg n="24">
+                  <pb n="26" facs="tcp:48546:16"/>
+                  <head>24.</head>
+                  <l>The raſcall Sergeants fleering ſtand,</l>
+                  <l>Wiſhing their Charter reacht the Strand,</l>
+                  <l>That they might there intrude;</l>
+                  <l>But ſince they are not yet content,</l>
+                  <l>I wiſh that it to Tyburn went,</l>
+                  <l>So they might there conclude.</l>
+               </lg>
+               <lg n="25">
+                  <head>25.</head>
+                  <l>An Alderman both grave and wiſe</l>
+                  <l>Cries brethren all let me adviſe,</l>
+                  <l>Whilſt wit is to be had,</l>
+                  <l>That like good husbands we provide</l>
+                  <l>Some ſpeeches for the Lady bride,</l>
+                  <l>Before all men go mad.</l>
+               </lg>
+               <lg n="26">
+                  <head>26.</head>
+                  <l>For by my faith if we may gueſſe</l>
+                  <l>Of greater miſchiefs by the leſſe,</l>
+                  <l>I pray let this ſuffice,</l>
+                  <l>If we but on mens backs do look,</l>
+                  <l>And look into each tradeſmans book</l>
+                  <l>You'l ſwear few men are wiſe.</l>
+               </lg>
+               <lg n="27">
+                  <head>27.</head>
+                  <l>Some thred-bare Poet we will preſſe,</l>
+                  <l>And for that day we will him dreſſe,</l>
+                  <l>At leaſt in beaten Sattin,</l>
+                  <l>And he ſhall tell her from this bench,</l>
+                  <l>That though we underſtand no French,</l>
+                  <l>At <hi>Pauls,</hi> ſhe may hear Lattin.</l>
+               </lg>
+               <lg n="28">
+                  <pb n="27" facs="tcp:48546:16"/>
+                  <head>28.</head>
+                  <l>But on this point they all demurre,</l>
+                  <l>And each takes counſell of his furre</l>
+                  <l>That ſmells of Fox and Cony,</l>
+                  <l>At laſt a Mayor in high diſdain,</l>
+                  <l>Swears he much ſcorns that in his reign</l>
+                  <l>Wit ſhould be bought for mony.</l>
+               </lg>
+               <lg n="29">
+                  <head>29.</head>
+                  <l>For by this Sack I mean to drink,</l>
+                  <l>I would not have my Soveraign think</l>
+                  <l>for twenty thouſand Crownes,</l>
+                  <l>That I his Lord Lieutenant here,</l>
+                  <l>And you my brethren ſhould appear</l>
+                  <l>Such errant witleſſe Clownes.</l>
+               </lg>
+               <lg n="30">
+                  <head>30.</head>
+                  <l>No, no, I have it in my head,</l>
+                  <l>Deviſes that ſhall ſtrike it dead,</l>
+                  <l>And make proud <hi>Paris</hi> ſay</l>
+                  <l>That little <hi>London</hi> hath a Mayor</l>
+                  <l>Can entertain their Lady faire,</l>
+                  <l>As well as ere did they.</l>
+               </lg>
+               <lg n="31">
+                  <head>31</head>
+                  <l>S. <hi>Georges</hi> Church ſhall be the place</l>
+                  <l>Where firſt I mean to meet her grace,</l>
+                  <l>And there St. <hi>George</hi> ſhall be</l>
+                  <l>Mounted upon a dapple gray,</l>
+                  <l>And gaping wide ſhall ſeem to ſay,</l>
+                  <l>Welcome St. <hi>Dennis</hi> to me.</l>
+               </lg>
+               <lg n="32">
+                  <pb n="28" facs="tcp:48546:17"/>
+                  <head>32.</head>
+                  <l>From thence in order two by two</l>
+                  <l>As we to <hi>Pauls</hi> are us'd to goe,</l>
+                  <l>To th' Bridge we will convey her,</l>
+                  <l>And there upon the top o' th' gate,</l>
+                  <l>Where now ſtands many a Raſcal's pate,</l>
+                  <l>I mean to place a player.</l>
+               </lg>
+               <lg n="33">
+                  <head>33.</head>
+                  <l>And to the Princeſſe he ſhall cry,</l>
+                  <l>May't pleaſe your Grace caſt up your eye</l>
+                  <l>And ſee theſe heads of Traytors;</l>
+                  <l>Thus will the city ſerve all thoſe</l>
+                  <l>That to your Highneſſe ſhall prove foes,</l>
+                  <l>For they to Knaves are haters.</l>
+               </lg>
+               <lg n="34">
+                  <head>34.</head>
+                  <l>Down Fiſhſtreet hill a Whale ſhall ſhoot,</l>
+                  <l>And meet her at the Bridges foot,</l>
+                  <l>And forth of his mouth ſo wide a</l>
+                  <l>Shall <hi>Jonas</hi> peep, and ſay, for fiſh,</l>
+                  <l>As good as your ſweet-heart can wiſh,</l>
+                  <l>You ſhall have hence each Friday.</l>
+               </lg>
+               <lg n="35">
+                  <head>35.</head>
+                  <l>At Grace-church corner there ſhall ſtand</l>
+                  <l>A troop of Graces hand in hand,</l>
+                  <l>And they to her ſhall ſay,</l>
+                  <l>Your Grace of <hi>France</hi> is welcome hither,</l>
+                  <l>
+                     <g ref="char:punc">▪</g>Tis merry when Graces meet together,</l>
+                  <l>I pray keep on your way.</l>
+               </lg>
+               <lg n="36">
+                  <pb n="29" facs="tcp:48546:17"/>
+                  <head>36.</head>
+                  <l>At the Exchange ſhall placed be,</l>
+                  <l>In ugly ſhapes thoſe ſiſters three</l>
+                  <l>That give to each their fate,</l>
+                  <l>And <hi>Spaine's Infanta</hi> ſhall ſtand by</l>
+                  <l>Wringing their hands, and thus ſhall cry,</l>
+                  <l>I do repent too late.</l>
+               </lg>
+               <lg n="37">
+                  <head>37.</head>
+                  <l>There we a paire of gloves will give,</l>
+                  <l>And pray her Highneſſe long may live</l>
+                  <l>On her white hands to wear them;</l>
+                  <l>And though they have a <hi>Spaniſh</hi> ſcent,</l>
+                  <l>The givers have no ill intent,</l>
+                  <l>Wherefore ſhe need not feare them<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+               <lg n="38">
+                  <head>38.</head>
+                  <l>Nor ſhall the Conduits now run Claret,</l>
+                  <l>Perhaps the <hi>Frenchman</hi> cares not for it,</l>
+                  <l>They have at home ſo much,</l>
+                  <l>No, I will make the boy to piſſe</l>
+                  <l>No worſe then pureſt Hypocris,</l>
+                  <l>Her Grace ne're taſted ſuch.</l>
+               </lg>
+               <lg n="39">
+                  <head>39.</head>
+                  <l>About the Standard I think fit</l>
+                  <l>Your wives, my brethren, all ſhould ſit,</l>
+                  <l>And eke our Lady Mayris,</l>
+                  <l>Who ſhall preſent a cup of gold,</l>
+                  <l>And ſay if we might be ſo bold,</l>
+                  <l>We'l drink to all in <hi>Paris.</hi>
+                  </l>
+               </lg>
+               <lg n="40">
+                  <pb n="30" facs="tcp:48546:18"/>
+                  <head>40.</head>
+                  <l>In <hi>Pauls</hi> Church-yard we breath may take,</l>
+                  <l>For they ſuch huge long ſpeeches make,</l>
+                  <l>Would tire any horſe;</l>
+                  <l>But there Ile put her grace in minde,</l>
+                  <l>To caſt her Princely head behind</l>
+                  <l>And view S. <hi>Paul</hi>'s Croſſe.</l>
+               </lg>
+               <lg n="41">
+                  <head>41.</head>
+                  <l>Our Sergeants they ſhall go their way,</l>
+                  <l>And for us at the Devil ſtay,</l>
+                  <l>I mean at Temple-barre,</l>
+                  <l>And there of her we leave will take,</l>
+                  <l>And ſay 'twas for King <hi>Charls</hi> his ſake</l>
+                  <l>We went with her ſo farre.</l>
+               </lg>
+               <lg n="42">
+                  <head>42.</head>
+                  <l>But fearing I have tir'd the eares,</l>
+                  <l>Both of the Duke and all theſe Peeres,</l>
+                  <l>Ile be no more uncivill,</l>
+                  <l>Ile leave the Mayor with both the Sheriffs,</l>
+                  <l>With Sergeants, hanging at their ſleeves,</l>
+                  <l>For this time at the Devill.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb n="31" facs="tcp:48546:18"/>
+               <head>A SONG.</head>
+               <lg>
+                  <l>A Story ſtrange I will you tell,</l>
+                  <l>But not ſo ſtrange as true,</l>
+                  <l>Of a woman that danc'd upon the ropes,</l>
+                  <l>And ſo did her husband too.</l>
+                  <l>
+                     <hi>With a dildo, dildo, dildo,</hi>
+                  </l>
+                  <l>
+                     <hi>With a dildo, dildo, dee,</hi>
+                  </l>
+                  <l>
+                     <hi>Some ſay 'twas a man, but it was a woman</hi>
+                  </l>
+                  <l>
+                     <hi>As plain report may ſee.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>She firſt climb'd up the Ladder</l>
+                  <l>For to deceive mens hopes,</l>
+                  <l>And with a long thing in her hand</l>
+                  <l>She tickled it on the ropes.</l>
+                  <l>
+                     <hi>With a dildo, dildo, dildo,</hi>
+                  </l>
+                  <l>
+                     <hi>With a dildo, dildo, dee,</hi>
+                  </l>
+                  <l>
+                     <hi>And to her came Knights and Gentlemen</hi>
+                  </l>
+                  <l>
+                     <hi>Of low and high degree.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>She jerk'd them backward and foreward</l>
+                  <l>With a long thing in her hand,</l>
+                  <l>And all the people that were in the yard,</l>
+                  <l>She made them for to ſtand.</l>
+                  <l>
+                     <hi>With a dildo,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <pb n="32" facs="tcp:48546:19"/>
+                  <l>They caſt up ſleering eyes</l>
+                  <l>All under-neath her cloaths,</l>
+                  <l>But they could ſee no thing,</l>
+                  <l>For ſhe wore linnen hoſe.</l>
+                  <l>
+                     <hi>With a dildo,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>The Cuckold her husband caper'd</l>
+                  <l>When his head in the ſack was in,</l>
+                  <l>But grant that we may never fall</l>
+                  <l>When we dance in the ſack of ſin.</l>
+                  <l>
+                     <hi>With a dildo,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>And as they ever danc't</l>
+                  <l>In faire or rainy weather,</l>
+                  <l>I wiſh they may be hang'd i' th' rope of Love,</l>
+                  <l>And ſo be cut down together.</l>
+                  <l>
+                     <hi>With a dildo,</hi> &amp;c.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb n="33" facs="tcp:48546:19"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon a Houſe of Office over a River, ſet on fire by a Coale of TOBACCO.</head>
+               <lg>
+                  <l>OH fire, fire, fire, where?</l>
+                  <l>The uſefull houſe or'e Water cleare,</l>
+                  <l>The moſt convenient in a ſhire,</l>
+                  <l>
+                     <hi>Which no body can deny.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The houſe of Office that old true blue</l>
+                  <l>Sir-reverence ſo many knew</l>
+                  <l>You now may ſee turn'd fine new.</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>And to our great aſtoniſhment</l>
+                  <l>Though burnt, yet ſtands to repreſent</l>
+                  <l>Both mourner and the monument,</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Ben Johnſon</hi>'s Vulcan would doe well,</l>
+                  <l>Or the merry Blades who knacks did tell,</l>
+                  <l>At firing <hi>London Bridge</hi> befell.</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <pb n="34" facs="tcp:48546:20"/>
+                  <l>They'l ſay if I of thee ſhould chant,</l>
+                  <l>The matter ſmells, now out upon't;</l>
+                  <l>But they ſhall have a fit of fie on't.</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>And why not ſay a word or two</l>
+                  <l>Of ſhe that's juſt? witneſſe all who</l>
+                  <l>Have ever been at thy Ho go,<note n="*" place="margin">haut goaſt.</note>
+                  </l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Earth, Aire and Water, ſhe could not</l>
+                  <l>Affront, till chollerick fire got</l>
+                  <l>Predominant, then thou grew<g ref="char:punc">▪</g>ſt hot,</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>The preſent cauſe of all our wo,</l>
+                  <l>But from Tobacco aſhes, oh!</l>
+                  <l>'Twas ſhitten luck to periſh ſo,</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>'Tis fatall to be built on lakes,</l>
+                  <l>As Sodom's fall example makes;</l>
+                  <l>But pity to the innocent jakes,</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Whoſe genius if I hit aright,</l>
+                  <l>May be conceived Hermophrodite,</l>
+                  <l>To both ſex common when they ſh—</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <pb n="35" facs="tcp:48546:20"/>
+                  <l>Of ſeverall uſes it hath ſtore,</l>
+                  <l>As Midwifes ſome do it implore,</l>
+                  <l>But the iſſue comes at Poſtern door.</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Retired mortalls out of feare,</l>
+                  <l>Privily, even to a haire,</l>
+                  <l>Did often do their buſineſſe there,</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>For mens and womens ſecrets fit</l>
+                  <l>No tale-teller, though privy to it,</l>
+                  <l>And yet they went to 't without feare or wit,</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>A Privy Chamber or priſon'd roome,</l>
+                  <l>And all that ever therein come</l>
+                  <l>Uncover muſt, or bide the doome,</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>A Cabinet for richeſt geare</l>
+                  <l>The choiceſt of the Ladys ware,</l>
+                  <l>And pretious ſtones full many there.</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>And where in State ſits noble duck,</l>
+                  <l>Many eſteem that uſe of nock,</l>
+                  <l>The higheſt pleaſure next to oc—</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <pb n="36" facs="tcp:48546:21"/>
+                  <l>And yet the hoſe there down did goe,</l>
+                  <l>The yeilding ſmock came up alſo,</l>
+                  <l>But ſtill no Bawdy houſe I trow,</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>There niceſt maid with naked rump,</l>
+                  <l>When ſtraining hard had made her mump,</l>
+                  <l>Did ſit at eaſe and heare it plump,</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Like the Dutch Skipper now may skit,</l>
+                  <l>When in his ſleeve he did do it,</l>
+                  <l>She may skit free, but now plimp niet,</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Thoſe female folk that there did haunt,</l>
+                  <l>To make their filled bellies gaunt,</l>
+                  <l>And with that ſame the brook did launt,</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Are driven now to do't on graſſe,</l>
+                  <l>And make a ſallet for their A—</l>
+                  <l>The world is come to a ſweet paſſe,</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Now farewell friend we held ſo deare,</l>
+                  <l>Although thou help'ſt away with our cheare,</l>
+                  <l>An open houſe keeper all the yeare,</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <pb n="37" facs="tcp:48546:21"/>
+                  <l>The Phoenix in her perfumed flame,</l>
+                  <l>Was ſo conſum'd, and thou the ſame,</l>
+                  <l>But the Aromaticks were too blame,</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>That Phoenix is but one thing twice,</l>
+                  <l>Thy Patron nobler then may riſe,</l>
+                  <l>For who can tell what he'l deviſe?</l>
+                  <l>
+                     <hi>Which no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Diana</hi>'s Temple was not free,</l>
+                  <l>Nor that world <hi>Rome,</hi> her Majeſty</l>
+                  <l>Smelt of the ſmoke, as well as thee,</l>
+                  <l>
+                     <hi>VVhich no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>And learned Clerks whom we admire,</l>
+                  <l>Do ſay the world ſhall ſo expire,</l>
+                  <l>Then when you ſh—remember fire.</l>
+                  <l>
+                     <hi>VVhich no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Beware of fire when you ſcumber,</l>
+                  <l>Though to ſh—fire were a wonder,</l>
+                  <l>Yet lightning oft ſucceeds the thunder,</l>
+                  <l>
+                     <hi>VVhich no body,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>We muſt ſubmit to what fate ſends,</l>
+                  <l>'Tis wholſome counſel to our friends,</l>
+                  <l>Take heed of ſmoking at both ends,</l>
+                  <l>
+                     <hi>VVhich no body can deny.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:48546:22"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon the Spaniſh Invaſion in Eighty eight.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>IN <hi>Eighty eight,</hi> ere I was born,</l>
+                  <l>As I do well remember a,</l>
+                  <l>In <hi>Auguſt</hi> was a Fleet prepar'd,</l>
+                  <l>The month before <hi>September</hi> a.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>
+                     <hi>Liſhone, Cales</hi> and <hi>Portugall,</hi>
+                  </l>
+                  <l>
+                     <hi>Toledo</hi> and <hi>Granada;</hi>
+                  </l>
+                  <l>They all did meet, &amp; made a Fleet,</l>
+                  <l>And call'd it their <hi>Armada.</hi>
+                  </l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>There dwelt a little man in <hi>Spain</hi>
+                  </l>
+                  <l>That ſhot well in a gun a;</l>
+                  <l>
+                     <hi>Don Pedro</hi> hight, as black a wight</l>
+                  <l>As the Knight of the Sun a.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>King <hi>Philip</hi> made him Admirall,</l>
+                  <l>And charg'd him not to ſtay a,</l>
+                  <l>But to deſtroy both man and boy,</l>
+                  <l>And then to come his way a.</l>
+               </lg>
+               <lg n="5">
+                  <pb n="39" facs="tcp:48546:22"/>
+                  <head>5.</head>
+                  <l>He had thirty thouſand of his own,</l>
+                  <l>But to do us more harm a,</l>
+                  <l>He charg'd him not to fight alone,</l>
+                  <l>But to joyn with the Prince of <hi>Parma.</hi>
+                  </l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>They ſay they brought proviſion much</l>
+                  <l>As Biskets, Beans and Bacon,</l>
+                  <l>Beſides, two ſhips were laden with whips,</l>
+                  <l>But I think they were miſtaken.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>When they had ſailed all along,</l>
+                  <l>And anchored before <hi>Dover,</hi>
+                  </l>
+                  <l>The Engliſh men did board them then,</l>
+                  <l>And heav'd the Raſcalls over.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>The queen ſhe was at <hi>Tilbury,</hi>
+                  </l>
+                  <l>What could you more deſire a?</l>
+                  <l>For whoſe ſweet ſake Sir <hi>Francis Drake</hi>
+                  </l>
+                  <l>Did ſet the ſhips on fire a.</l>
+               </lg>
+               <lg n="9">
+                  <head>9</head>
+                  <l>Then let them neither brag nor boaſt,</l>
+                  <l>For if they come again a,</l>
+                  <l>Let them take heed they do not ſpeed</l>
+                  <l>As they did they know when a.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb n="40" facs="tcp:48546:23"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon the Gun-powder Plot.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>ANd will this wicked world never prove good?</l>
+                  <l>Will Prieſts and Catholiques never prove true?</l>
+                  <l>Shall <hi>Cateſby, Piercy</hi> and <hi>Rookwood</hi>
+                  </l>
+                  <l>Make all this famous Land to rue?</l>
+                  <l>With putting us in ſuch a feare,</l>
+                  <l>
+                     <hi>With huffing and ſnuffing and guni-powder,</hi>
+                  </l>
+                  <l>
+                     <hi>With a Ohone hononoreera tarrareera, tarra<g ref="char:EOLhyphen"/>reero hone.</hi>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>
+                     <g ref="char:punc">▪</g>Gainſt the fifth of <hi>November,</hi> Tueſday by name,</l>
+                  <l>
+                     <hi>Peircy</hi> and <hi>Cateſby</hi> a Plot did frame,</l>
+                  <l>
+                     <hi>Anno</hi> one thouſand ſix hundred and five,</l>
+                  <l>In which long time no man alive</l>
+                  <l>Did ever know, or heare the like,</l>
+                  <l>Which to declare my heart growes ſike.</l>
+                  <l>
+                     <hi>With a O hone,</hi> &amp;c.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Under the Parliament-houſe men ſay</l>
+                  <l>Great ſtore of Powder they did lay,</l>
+                  <l>Thirty ſix barrels, as is reported,</l>
+                  <l>With many faggots ill conſorted,</l>
+                  <l>With barres of iron upon them all,</l>
+                  <l>To bring us to a deadly fall.</l>
+                  <l>
+                     <hi>With a O hone,</hi> &amp;c.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="41" facs="tcp:48546:23"/>
+                  <head>4.</head>
+                  <l>And then came forth Sir <hi>Thomas Knyvet,</hi>
+                  </l>
+                  <l>You filthy Rogue come out o' th' doore,</l>
+                  <l>Or elſe I ſweare by Gods trivet</l>
+                  <l>Ile lay thee flatlong on the floor,</l>
+                  <l>For putting us all in ſuch a feare,</l>
+                  <l>
+                     <hi>With huffing and ſnuffing,</hi> &amp;c.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Then <hi>Faux</hi> out of the Vault was taken</l>
+                  <l>And carried before Sir <hi>Francis Bacon,</hi>
+                  </l>
+                  <l>And was examined of the Act,</l>
+                  <l>And ſtoutly did confeſſe the Fact,</l>
+                  <l>And ſwore he would put us in ſuch a feare.</l>
+                  <l>
+                     <hi>With huffing,</hi> &amp;c.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Now ſure it is a miraculous thing,</l>
+                  <l>To ſee how God hath preſerv'd our King,</l>
+                  <l>The Queen, the Prince, and his Siſter dear,</l>
+                  <l>And all the Lords, and every Peere,</l>
+                  <l>And all the Land, and every ſhire,</l>
+                  <l>
+                     <hi>From huffing,</hi> &amp;c.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Now God preſerve the Council wiſe,</l>
+                  <l>That firſt found out this enterpriſe;</l>
+                  <l>Not they, but my Lord <hi>Monteagle,</hi>
+                  </l>
+                  <l>His Lady and her little Beagle,</l>
+                  <l>His Ape, his Aſs, and his great Beare<g ref="char:punc">▪</g>
+                  </l>
+                  <l>
+                     <hi>From huffing and ſnuffing, and gunni powder.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="42" facs="tcp:48546:24"/>
+                  <l>Other newes I heard moreover,</l>
+                  <l>If all was true that's told to me,</l>
+                  <l>Three Spaniſh ſhips landed at <hi>Dover,<g ref="char:punc">▪</g>
+                     </hi>
+                  </l>
+                  <l>Where they made great melody,</l>
+                  <l>But the Hollanders drove them here and there,</l>
+                  <l>
+                     <hi>VVith huffing,</hi> &amp;c.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>A CATCH.</head>
+               <lg>
+                  <l>DRink boyes, drink boyes, drink and doe not ſpare,</l>
+                  <l>Troule away the bowl, and take no care.</l>
+                  <l>So that we have meat and drink, and money and clothes</l>
+                  <l>What care we, what care we how the world goes.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="43" facs="tcp:48546:24"/>
+               <head>A pitifull Lamentation.</head>
+               <lg>
+                  <l>MY Mother hath ſold away her Cock</l>
+                  <l>And all her brood of Chickins,</l>
+                  <l>And hath bought her a new canvaſſe ſmock</l>
+                  <l>And righted up the Kitchin.</l>
+                  <l>And has brought me a Lockeram bond</l>
+                  <l>With a v'lopping paire of breeches,</l>
+                  <l>Thinking that <hi>Jone</hi> would have lov'd me alone,</l>
+                  <l>But ſhe hath ſerv'd me ſuch yfiches<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Iſe take a rope and drowne my ſelfe,</l>
+                  <l>Ere Iſt indure theſe loſſes:</l>
+                  <l>Ile take a hatchet and hang my ſelfe</l>
+                  <l>Ere Iſt indure theſe croſſes.</l>
+                  <l>Or elſe Ile goe to ſome beacon high,</l>
+                  <l>Made of ſome good dry'd furzon</l>
+                  <l>And there Ile ſeeme in love to fry</l>
+                  <l>Sing hoodle a doodle Cuddon<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="44" facs="tcp:48546:25" rendition="simple:additions"/>
+               <head>A Woman with Child that de<g ref="char:EOLhyphen"/>ſired a Son, which might prove a Preacher.</head>
+               <lg>
+                  <l>AMaiden of the <hi>pure Scociety,</hi>
+                  </l>
+                  <l>Pray'd with a paſſing piety</l>
+                  <l>That ſince a learned man had o're-reacht her,</l>
+                  <l>The child ſhe went withall ſhould prove Prea<g ref="char:EOLhyphen"/>cher.</l>
+                  <l>The time being come, and all the dangers paſt,</l>
+                  <l>The Goodwife askt the Midwife</l>
+                  <l>What God had ſent at laſt.</l>
+                  <l>Who anſwer'd her half in a laughter,</l>
+                  <l>Quoth ſhe the Son is prov'd a Daughter.</l>
+                  <l>But be content, if God doth bleſſe the Baby,</l>
+                  <l>She has a <hi>Pulpit</hi> where a <hi>Preacher</hi> may be.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="45" facs="tcp:48546:25"/>
+               <head>The Maid of <hi>Tottenham.</hi>
+               </head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>ASI went to <hi>Totnam</hi>
+                  </l>
+                  <l>Upon a Market-day,</l>
+                  <l>There met I with a faire maid</l>
+                  <l>Cloathed all in gray,</l>
+                  <l>Her journey was to <hi>London</hi>
+                  </l>
+                  <l>With Buttermilk and Whay,</l>
+                  <l>
+                     <hi>To fall down, down, derry down,</hi>
+                  </l>
+                  <l>
+                     <hi>down, down, derry down,</hi>
+                  </l>
+                  <l>
+                     <hi>derry, derry dina.</hi>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>God ſpeed faire maid, quoth one,</l>
+                  <l>You are well over-took;</l>
+                  <l>With that ſhe caſt her head aſide,</l>
+                  <l>And gave to him a look.</l>
+                  <l>She was as full of Leachery</l>
+                  <l>As letters in a book.</l>
+                  <l>
+                     <hi>To fall down,</hi> &amp;c.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>And as they walk'd together,</l>
+                  <l>Even ſide by ſide,</l>
+                  <l>The young man was aware</l>
+                  <l>That her garter was unty'd,</l>
+                  <l>For feare that ſhe ſhould loſe it,</l>
+                  <l>Aha, alack he cry'd,</l>
+                  <l>Oh your garter that hangs down!</l>
+                  <l>
+                     <hi>Down, down, derry down,</hi> &amp;c.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="46" facs="tcp:48546:26"/>
+                  <head>4.</head>
+                  <l>Quoth ſhe I do intreat you</l>
+                  <l>For to take the pain</l>
+                  <l>To do ſo much for me,</l>
+                  <l>As to tye it up again.</l>
+                  <l>That will I do ſweet-heart, quoth he,</l>
+                  <l>When I come on yonder plain.</l>
+                  <l>
+                     <hi>VVith a down, down, derry down,</hi> &amp;c.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>And when they came upon the plain</l>
+                  <l>Upon a pleaſant green,</l>
+                  <l>The fair maid ſpread her leggs abroad,</l>
+                  <l>The young man fell between,</l>
+                  <l>Such tying of a Garter</l>
+                  <l>I think was never ſeen.</l>
+                  <l>
+                     <hi>To fall down,</hi> &amp;c.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>When they had done their buſineſſe,</l>
+                  <l>And quickly done the deed,</l>
+                  <l>He gave her kiſſes plenty,</l>
+                  <l>And took her up with ſpeed.</l>
+                  <l>But what they did I know not,</l>
+                  <l>But they were both agreed</l>
+                  <l>
+                     <hi>To fall down together, down</hi>
+                  </l>
+                  <l>
+                     <hi>Down, down, derry down,</hi>
+                  </l>
+                  <l>
+                     <hi>Down, down, derry dina.</hi>
+                  </l>
+               </lg>
+               <lg n="7">
+                  <pb n="47" facs="tcp:48546:26"/>
+                  <head>7.</head>
+                  <l>She made to him low curtſies</l>
+                  <l>And thankt him for his paine,</l>
+                  <l>The young man is to High-gate gone</l>
+                  <l>The maid to <hi>London</hi> came</l>
+                  <l>To ſell off her commodity</l>
+                  <l>She thought it for no ſhame.</l>
+                  <l>
+                     <hi>To fall downe,</hi> &amp;c.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>When ſhe had done her market,</l>
+                  <l>And all her money told</l>
+                  <l>To think upon the matter</l>
+                  <l>It made her heart full cold</l>
+                  <l>But that which will away, quoth ſhe,</l>
+                  <l>Is very hard to hold.</l>
+                  <l>
+                     <hi>To fall down,</hi> &amp;c.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>This tying of the Garter</l>
+                  <l>Coſt her her Maidenhead,</l>
+                  <l>Quoth ſhe it is no matter,</l>
+                  <l>It ſtood me in ſmall ſtead,</l>
+                  <l>But often times it troubled me</l>
+                  <l>As I lay in my bed.</l>
+                  <l>
+                     <hi>To fall down,</hi> &amp;c.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="48" facs="tcp:48546:27"/>
+               <head>To the King on New-yeares day, 1638.</head>
+               <lg>
+                  <l>THis day inlarges every narrow mind,</l>
+                  <l>Makes the Poor bounteous, and the Miſer kind;</l>
+                  <l>Poets that have not wealth in wiſht exceſſe,</l>
+                  <l>I hope may give like Prieſts, which is to bleſſe.</l>
+                  <l>And ſure in elder times the Poets were</l>
+                  <l>Thoſe Prieſts that told men how to hope and feare,</l>
+                  <l>Though they moſt ſenſually did write and live,</l>
+                  <l>Yet taught thoſe bleſſings, which the Gods did give.</l>
+                  <l>But you (my King) have purify'd our flame,</l>
+                  <l>Made wit our vertue which was once our ſhame;</l>
+                  <l>For by your own quick fires you made ours laſt,</l>
+                  <l>Reform'd our numbers till our ſongs grew chaſt.</l>
+                  <l>Farre more then fam'd <hi>Auguſtus</hi> ere could doe</l>
+                  <l>With's wiſdome, (though it long continued too)</l>
+                  <l>You have perform'd even in your Moon of age;</l>
+                  <l>Refin'd to Lectures, Playes, to Schooles a ſtage.</l>
+                  <l>Such vertue got why is your Poet leſſe</l>
+                  <l>A Prieſt then his who had a power to bleſſe?</l>
+                  <l>
+                     <pb n="49" facs="tcp:48546:27"/>So hopefull is my rage that I begin</l>
+                  <l>To ſhew that feare which ſtrives to keep it in:</l>
+                  <l>And what was meant a bleſſing ſoars ſo high</l>
+                  <l>That it is now become a Propheſie.</l>
+                  <l>Your ſelfe (our <hi>Plannet</hi> which renewes our year)</l>
+                  <l>Shall ſo inlighten all, and every where,</l>
+                  <l>That through the Miſts of error men ſhall ſpy</l>
+                  <l>In the dark North the way to Loyalty;</l>
+                  <l>Whilſt with your intellectuall beames you ſhow</l>
+                  <l>The knowing what they are that ſeeme to know.</l>
+                  <l>You like our Sacred and indulgent Lord,</l>
+                  <l>When the too-ſtout Apoſtle drew his ſword,</l>
+                  <l>When he miſtooke ſome ſecrets of the cauſe,</l>
+                  <l>And in his furious zeale diſdain'd the Lawes,</l>
+                  <l>Forgetting true Religion doth lye</l>
+                  <l>On prayers, not ſwords againſt authority.</l>
+                  <l>You like our ſubſtitute of horrid fate</l>
+                  <l>That are next him we moſt ſhould imitate,</l>
+                  <l>Shall like to him rebuke with wiſer breath,</l>
+                  <l>Such furious zeale, but not reveng'd with death.</l>
+                  <l>Like him the wound that's giv'n you ſtrait ſhall heal,</l>
+                  <l>Then calm by precept ſuch miſtaking zeal.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>In praiſe of a deformed woman.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>I Love thee for thy curled haire,</l>
+                  <l>As red as any Fox,</l>
+                  <l>Our fore fathers did ſtill commend</l>
+                  <l>The lovely golden locks.</l>
+                  <l>
+                     <hi>Venus her ſelf might comelier be,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet hath no ſuch variety.</hi>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <pb n="50" facs="tcp:48546:28"/>
+                  <head>2.</head>
+                  <l>I love thee for thy ſquinting eyes,</l>
+                  <l>It breeds no jealouſie,</l>
+                  <l>For when thou do'ſt on others look,</l>
+                  <l>Methinks thou look'ſt on me.</l>
+                  <l>
+                     <hi>Venus her ſelf,</hi> &amp;c.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>I love thee for thy copper noſe,</l>
+                  <l>Thy fortune's ne're the worſe,</l>
+                  <l>It ſhewes the mettal in thy face</l>
+                  <l>Thou ſhould'ſt have in thy purſe</l>
+                  <l>
+                     <hi>Venus her ſelf,</hi> &amp;c.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>I love thee for thy Cheſſenut skin,</l>
+                  <l>Thy inſide's white to me,</l>
+                  <l>That colour ſhould be moſt approv'd,</l>
+                  <l>That will leaſt changed be.</l>
+                  <l>
+                     <hi>Venus her ſelf,</hi> &amp;c.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>I love thee for thy ſplay mouth,</l>
+                  <l>For on that amarous cloſe</l>
+                  <l>There's room on either ſide to kiſſe,</l>
+                  <l>And ne're offend the noſe.</l>
+                  <l>
+                     <hi>Venus her ſelf,</hi> &amp;c.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>I love thee for thy rotten gummes,</l>
+                  <l>In good time it may hap,</l>
+                  <l>When other wives are coſtly fed,</l>
+                  <l>Ile keep thy chaps with pap.</l>
+                  <l>
+                     <hi>Venus her ſelf,</hi> &amp;c.</l>
+               </lg>
+               <lg n="7">
+                  <pb n="51" facs="tcp:48546:28"/>
+                  <head>7.</head>
+                  <l>I love thee for thy blobber lips,</l>
+                  <l>'Tis good thrift I ſuppoſe,</l>
+                  <l>They're dripping-pans unto thy eyes,</l>
+                  <l>And ſave-alls to thy noſe.</l>
+                  <l>
+                     <hi>Venus her ſelf,</hi> &amp;c.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>I love thee for thy huncht back,</l>
+                  <l>'Tis bow'd although not broken,</l>
+                  <l>For I believe the Gods did ſend</l>
+                  <l>Me to thee for a Token.</l>
+                  <l>
+                     <hi>Venus her ſelf,</hi> &amp;c.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>I love thee for thy pudding waſt,</l>
+                  <l>If a Taylor thou do'ſt lack,</l>
+                  <l>Thou need'ſt not ſend to <hi>France</hi> for one,</l>
+                  <l>Ile fit thee with a ſack.</l>
+                  <l>
+                     <hi>Venus her ſelf,</hi> &amp;c.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>I love thee for thy luſty thighes,</l>
+                  <l>For treſſels thou maiſt boaſt,</l>
+                  <l>Sweet-heart thou haſt a water-mill,</l>
+                  <l>And theſe are the mill-poſts.</l>
+                  <l>
+                     <hi>Venus her ſelf,</hi> &amp;c.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>I love thee for thy ſplay feet,</l>
+                  <l>They're fooles that thee deride,</l>
+                  <l>Women are alwaies moſt eſteem'd,</l>
+                  <l>When their feet are moſt wide.</l>
+                  <l>
+                     <hi>Venus her ſelf may comelier be,</hi> &amp;c.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="52" facs="tcp:48546:29"/>
+               <head>On a TINKER.</head>
+               <lg>
+                  <l>HE that a Tinker, a Tinker, a Tinker will be,</l>
+                  <l>Let him leave other Loves, and come fol<g ref="char:EOLhyphen"/>low me.</l>
+                  <l>Though he travells all the day,</l>
+                  <l>Yet he comes home ſtill at night,</l>
+                  <l>And dallies, dallies with his Doxie,</l>
+                  <l>And dreames of delight.</l>
+                  <l>His pot and his toſt in the morning he takes,</l>
+                  <l>And all the day long good muſick he makes;</l>
+                  <l>He wanders up and down to Wakes &amp; to Fairs,</l>
+                  <l>He caſts his cap, and caſts his cap at the Court and its cares;</l>
+                  <l>And when to the town the Tinker doth come,</l>
+                  <l>Oh, how the wanton wenches run,</l>
+                  <l>Some bring him baſons, and ſome bring him bowles,</l>
+                  <l>All maids deſire him to ſtop up their holes.</l>
+                  <l>
+                     <hi>Prinkum Prankum</hi> is a fine dance, ſtrong Ale is good in the winter,</l>
+                  <l>And he that thrumms a wench upon a braſs pot,</l>
+                  <l>The child may prove a Tinker.</l>
+                  <l>With tink goes the hammer, the skellit and the ſcummer,</l>
+                  <l>Come bring me thy copper kettle,</l>
+                  <l>For the Tinker, the Tinker, the merry merry Tinker,</l>
+                  <l>Oh he's the man of mettle.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="53" facs="tcp:48546:29"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon his Mistris's black Eye-browes.</head>
+               <lg>
+                  <l>HIde, oh hide thoſe lovely Browes,</l>
+                  <l>
+                     <hi>Cupid</hi> takes them for his bowes,</l>
+                  <l>And from thence with winged dart</l>
+                  <l>He lies pelting at my heart,</l>
+                  <l>Nay, unheard-of wounds doth give,</l>
+                  <l>Wounded in the heart I live;</l>
+                  <l>From their colour I deſcry,</l>
+                  <l>Loves bowes are made of Ebony;</l>
+                  <l>Or their Sable ſeemes to ſay</l>
+                  <l>They mourn for thoſe their glances ſlay;</l>
+                  <l>Or their blackneſſe doth ariſe</l>
+                  <l>From the Sun-beams of your eyes,</l>
+                  <l>Where <hi>Apollo</hi> ſeemes to ſit,</l>
+                  <l>As he's God of Day, and Wit;</l>
+                  <l>Your piercing Rayes, ſo bright, and cleare,</l>
+                  <l>Shewes his beamy Chariots there.</l>
+                  <l>Then the black upon your brow,</l>
+                  <l>Sayeſt wiſdomes ſable hue,</l>
+                  <l>Tells to every obvious eye,</l>
+                  <l>There's his other Deity.</l>
+                  <l>This too ſhewes him deeply wiſe,</l>
+                  <l>To dwell there he left the skies;</l>
+                  <l>
+                     <pb n="54" facs="tcp:48546:30"/>So pure a black could <hi>Phoebus</hi> burn,</l>
+                  <l>He himſelf would <hi>Negro</hi> turn,</l>
+                  <l>And for ſuch a dreſſe would ſlight</l>
+                  <l>His gorgeous attire of light;</l>
+                  <l>Eclipſes he would count a bliſſe,</l>
+                  <l>Were there ſuch a black as this:</l>
+                  <l>Were Night's dusky mantle made</l>
+                  <l>Of ſo glorious a ſhade,</l>
+                  <l>The ruffling day ſhe would out-vie</l>
+                  <l>In coſtly dreſſe, and gallantry:</l>
+                  <l>Were Hell's darkneſſe ſuch a black,</l>
+                  <l>For it the Saints would Heaven forſake;</l>
+                  <l>So pure a black, that white from hence</l>
+                  <l>Loſes its name of innocence;</l>
+                  <l>And the moſt ſpotleſſe Ivory is</l>
+                  <l>A very ſtain and blot to this:</l>
+                  <l>So pure a black, that hence I gueſſe,</l>
+                  <l>Black firſt became a holy dreſſe.</l>
+                  <l>The Gods foreſeeing this, did make</l>
+                  <l>Their Prieſts array themſelves in Black.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="55" facs="tcp:48546:30"/>
+               <head>To my Lady of <hi>Carnarvon,</hi> January 1.</head>
+               <lg>
+                  <l>IDol of our Sex! Envy of thine own!</l>
+                  <l>Whom not t' have ſeen, is never to have known,</l>
+                  <l>What eyes are good for; to have ſeen, not lov'd,</l>
+                  <l>Is to be more, or leſſe then man, unmov'd;</l>
+                  <l>Deigne to accept, what I i' th' name of all</l>
+                  <l>Thy ſervants pay to this dayes Feſtival,</l>
+                  <l>Thanks for the old yeare, prayers for the new,</l>
+                  <l>So may thy many dayes to come ſeeme few,</l>
+                  <l>So may freſh ſprings in thy blew rivolets flow,</l>
+                  <l>To make thy roſes, and thy lillies grow.</l>
+                  <l>So may all dreſſings ſtill become thy face,</l>
+                  <l>As if they grew there, or ſtole thence their grace<g ref="char:punc">▪</g>
+                  </l>
+                  <l>So may thy bright eyes comfort with their rayes</l>
+                  <l>Th' humble, and dazle thoſe that boldly gaze:</l>
+                  <l>So may thy ſprightly motion, beauties beſt part,</l>
+                  <l>Shew there is ſtock enough of life at heart.</l>
+                  <l>So may thy warm ſnow never grow more cold,</l>
+                  <l>So may they live to be, but not ſeem old.</l>
+                  <l>So may thy Lord pay all, yet reſt thy debtor,</l>
+                  <l>And love no other, till he ſees a better:</l>
+                  <l>
+                     <pb n="56" facs="tcp:48546:31"/>So may the new year crown the old yeares joy,</l>
+                  <l>By giving us a Girle unto our Boy;</l>
+                  <l>I'th' one the Fathers wit, and in the other</l>
+                  <l>Let us admire the beauty of the Mother,</l>
+                  <l>That ſo we may their ſeverall pictures ſee,</l>
+                  <l>Which now in one fair Medall joyned be:</l>
+                  <l>Till then grow thus together, and howe're</l>
+                  <l>You grow old in your ſelves, grow ſtil young here;</l>
+                  <l>And let him, though he may reſemble either,</l>
+                  <l>Seem to be both in one, and ſingly neither.</l>
+                  <l>Let Ladies wagers lay, whoſe chin is this,</l>
+                  <l>Whoſe forehead that, whoſe lip, whoſe eye, then kiſs</l>
+                  <l>Away the difference, whilſt he ſmiling lies,</l>
+                  <l>To ſee his own ſhape dance in both your eyes.</l>
+                  <l>Sweet Babe! my prayer ſhall end with thee,</l>
+                  <l>(Oh may it prove a Prophecy!)</l>
+                  <l>May all the channells in thy veynes</l>
+                  <l>Expreſſe the ſeverall noble ſtraines,</l>
+                  <l>From whence they flow; ſweet <hi>Sydney's</hi> wit,</l>
+                  <l>But not the ſad, ſweet fate of it;</l>
+                  <l>The laſt great <hi>Pembroke's</hi> learning, ſage</l>
+                  <l>
+                     <hi>Burleigh's</hi> both wiſdome and his age;</l>
+                  <l>Thy Grandſires honeſt heart expreſſe</l>
+                  <l>The <hi>Veres</hi> untainted nobleneſſe.</l>
+                  <l>To theſe (if any thing there lacks)</l>
+                  <l>Adde <hi>Dormer</hi> too, and <hi>Molenax.</hi>
+                  </l>
+                  <l>Laſtly, if for thee I can woo</l>
+                  <l>Gods, and thy Godfathers grace too,</l>
+                  <l>Together with thy Fathers Thrift:</l>
+                  <l>Be thou thy Mothers New-years-gift.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="57" facs="tcp:48546:31"/>
+               <head>The Weſtern Husband-man's Complaint in the late Wars.</head>
+               <lg>
+                  <l>UDs bodykins! Chill work no more:</l>
+                  <l>Doſt think chill labour to be poor?</l>
+                  <l>No ich have more a do:</l>
+                  <l>If of the world this be the trade,</l>
+                  <l>That ich muſt break zo knaves be made,</l>
+                  <l>Ich will a blundering too.</l>
+               </lg>
+               <lg>
+                  <l>Chill zel my cart and eke my plow,</l>
+                  <l>And get a zword if ich know how,</l>
+                  <l>For ich mean to be right:</l>
+                  <l>Chill learn to zwear, and drink, and roar,</l>
+                  <l>And (Gallant leek) chill keep a whore,</l>
+                  <l>No matter who can vight.</l>
+               </lg>
+               <lg>
+                  <l>God bleſſe us! What a world is here,</l>
+                  <l>It can ne're laſt another year,</l>
+                  <l>Vor ich can't be able to zoe:</l>
+                  <l>Doſt think that ever chad the art,</l>
+                  <l>To plow the ground up with my cart,</l>
+                  <l>My beaſts be all a go.</l>
+               </lg>
+               <lg>
+                  <pb n="58" facs="tcp:48546:32"/>
+                  <l>But vurſt a Warrant ich will get</l>
+                  <l>From Maſter Captaine, that a vet</l>
+                  <l>Chill make a ſhrewd a do:</l>
+                  <l>Vor then chave power in any place,</l>
+                  <l>To ſteal a Horſe without diſgrace,</l>
+                  <l>And beat the owner too.</l>
+               </lg>
+               <lg>
+                  <l>Ich had zix oxen tother day,</l>
+                  <l>And them the Roundheads vetcht away,</l>
+                  <l>A miſchiefe be their ſpeed:</l>
+                  <l>And chad zix horſes left me whole,</l>
+                  <l>And them the Cabbaleroes ſtole:</l>
+                  <l>Chee voor men be agreed,</l>
+               </lg>
+               <lg>
+                  <l>Here ich doe labour, toyl and zweat,</l>
+                  <l>And dure the cold, with dry and heat,</l>
+                  <l>And what doſt think ich get?</l>
+                  <l>Vaith juſt my labour vor my pains,</l>
+                  <l>The garriſons have all the gains,</l>
+                  <l>Vor thither all's avet.</l>
+               </lg>
+               <lg>
+                  <l>There goes my corne and beanes, and peaſe,</l>
+                  <l>Ich doe not dare them to diſpleaſe,</l>
+                  <l>They doe zo zwear and vapour:</l>
+                  <l>When to the Governour ich doe come,</l>
+                  <l>And pray him to diſcharge my zum,</l>
+                  <l>Chave nothing but a paper.</l>
+               </lg>
+               <lg>
+                  <pb n="59" facs="tcp:48546:32"/>
+                  <l>U'ds nigs doſt think that paper will</l>
+                  <l>Keep warme my back and belly fill?</l>
+                  <l>No, no, goe vange thy note:</l>
+                  <l>If that another year my vield</l>
+                  <l>No profit doe unto me yeild,</l>
+                  <l>Ich may goe cut my throat.</l>
+               </lg>
+               <lg>
+                  <l>When any money chove in ſtore,</l>
+                  <l>Then ſtraight a warrant comes therefore,</l>
+                  <l>Or ich muſt blundred be:</l>
+                  <l>And when chave ſhuffled out one pay,</l>
+                  <l>Then comes another without delay,</l>
+                  <l>Was ever the leek azee?</l>
+               </lg>
+               <lg>
+                  <l>If all this be not grief enow,</l>
+                  <l>They have a thing cald quarter too,</l>
+                  <l>O'ts a vengeance waſter:</l>
+                  <l>A pox upon't they call it vree,</l>
+                  <l>Cham zure they make us zlaves to be,</l>
+                  <l>And every rogue our maſter.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="60" facs="tcp:48546:33"/>
+               <head>The High-way mans Song.</head>
+               <lg>
+                  <l>I Keep my Horſe, I keep my Whore,</l>
+                  <l>I take no Rents, yet am not poore,</l>
+                  <l>I traverſe all the land about,</l>
+                  <l>And yet was born to never a foot;</l>
+                  <l>With Partridge plump, and Woodcock fine,</l>
+                  <l>I do at mid-night often dine;</l>
+                  <l>And if my whore be not in caſe,</l>
+                  <l>My Hoſteſs daughter has her place.</l>
+                  <l>The maids ſit up, and watch their turnes,</l>
+                  <l>If I ſtay long the Tapſter mourns;</l>
+                  <l>The Cook-maid has no mind to ſin,</l>
+                  <l>Though tempted by the Chamberlin;</l>
+                  <l>But when I knock, O how they buſtle;</l>
+                  <l>The hoſtler yawns, the geldings juſtle;</l>
+                  <l>If maid be ſleep, oh how they curſe her!</l>
+                  <l>And all this comes of, <hi>Deliver your purſe ſir.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="61" facs="tcp:48546:33"/>
+               <head>Against Fruition, <hi>&amp;c.</hi>
+               </head>
+               <lg>
+                  <l>THere is not half ſo warme a fire</l>
+                  <l>In the Fruition, as Deſire.</l>
+                  <l>When I have got the fruit of pain,</l>
+                  <l>Poſſeſſion makes me poore again,</l>
+                  <l>Expected formes and ſhapes unknown,</l>
+                  <l>Whet and make ſharp tentation;</l>
+                  <l>Senſe is too niggardly for Bliſs,</l>
+                  <l>And payes me dully with what is;</l>
+                  <l>But fancy's liberall, and gives all</l>
+                  <l>That can within her vaſtneſſe fall;</l>
+                  <l>Vaile therefore ſtill, while I divine</l>
+                  <l>The Treaſure of this hidden Mine,</l>
+                  <l>And make Imagination tell</l>
+                  <l>What wonders doth in Beauty dwell.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="62" facs="tcp:48546:34"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon Mr. <hi>Fullers</hi> Booke, called <hi>Piſgah-ſight.</hi>
+               </head>
+               <lg>
+                  <l>FUller of wiſh, than hope, methinks it is<g ref="char:punc">▪</g>
+                  </l>
+                  <l>For me to expect a fuller work than this,</l>
+                  <l>Fuller of matter, fuller of rich ſenſe,</l>
+                  <l>Fuller of Art fuller of Eloquence;</l>
+                  <l>Yet dare I not be bold, to intitle this</l>
+                  <l>The fulleſt work; the Author fuller is,</l>
+                  <l>Who, though he empty not himſelf, can fill</l>
+                  <l>Another fuller, yet continue ſtill</l>
+                  <l>Fuller himſelf, and ſo the Reader be</l>
+                  <l>Alwayes in hope a fuller work to ſee.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="63" facs="tcp:48546:34" rendition="simple:additions"/>
+               <head>On a Sheepherd that died for Love.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>
+                     <hi>CLoris,</hi> now thou art fled away,</l>
+                  <l>
+                     <hi>Aminta</hi>'s Sheep are gone aſtray,</l>
+                  <l>And all the joyes he took to ſee</l>
+                  <l>His pretty Lambs run after thee.</l>
+                  <l>
+                     <hi>Shee's gone, ſhee's gone, and he alway,</hi>
+                  </l>
+                  <l>
+                     <hi>Sings nothing now but welladay.</hi>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>His Oaten pipe that in thy praiſe,</l>
+                  <l>Was wont to play ſuch roundelayes,</l>
+                  <l>Is thrown away, and not a Swaine</l>
+                  <l>Dares pipe or ſing within this Plaine.</l>
+                  <l>
+                     <hi>'Tis death for any now to ſay</hi>
+                  </l>
+                  <l>
+                     <hi>One word to him, but welladay.</hi>
+                  </l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>The May-pole where thy little feet</l>
+                  <l>So roundly did in meaſure meet,</l>
+                  <l>Is broken down, and no content</l>
+                  <l>Came near <hi>Amintas</hi> ſince you went.</l>
+                  <l>
+                     <hi>All that ere I heard him ſay,</hi>
+                  </l>
+                  <l>
+                     <hi>Was</hi> Cloris, Cloris, <hi>welladay.</hi>
+                  </l>
+               </lg>
+               <lg n="4">
+                  <pb n="64" facs="tcp:48546:35"/>
+                  <head>4.</head>
+                  <l>Upon thoſe banks you us'd to tread,</l>
+                  <l>He ever ſince hath laid his head,</l>
+                  <l>And whiſper'd there ſuch pining wo,</l>
+                  <l>That not one blade of graſſe will grow.</l>
+                  <l>
+                     <hi>Oh</hi> Cloris, Cloris, <hi>come away,</hi>
+                  </l>
+                  <l>
+                     <hi>And hear</hi> Aminta'<hi>s welladay.</hi>
+                  </l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>The embroyder'd ſcrip he us'd to weare</l>
+                  <l>Neglected hangs, ſo does his haire.</l>
+                  <l>His Crook is broke, Dog pining lyes,</l>
+                  <l>And he himſelf nought doth but cryes,</l>
+                  <l>
+                     <hi>Oh</hi> Cloris, Cloris, <hi>come away,</hi>
+                  </l>
+                  <l>
+                     <hi>And hear,</hi> &amp;c.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>His gray coat, and his ſlops of green,</l>
+                  <l>When worn by him, were comely ſeen,</l>
+                  <l>His tar-box too is thrown away,</l>
+                  <l>There's no delight neer him muſt ſtay,</l>
+                  <l>
+                     <hi>But cries, oh</hi> Cloris <hi>come away,</hi>
+                  </l>
+                  <l>Aminta'<hi>s dying, welladay.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="65" facs="tcp:48546:35"/>
+               <head>The Shepheards lamentation for the loſſe of his Love.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>DOwn lay the Shepheards Swain,</l>
+                  <l>So ſober and demure,</l>
+                  <l>Wiſhing for his wench again,</l>
+                  <l>So bonny and ſo pure.</l>
+                  <l>With his head on hillock low,</l>
+                  <l>And his armes on kembow;</l>
+                  <l>And all for the loſſe of her Hy nonny nonny no.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>His teares fell as thin,</l>
+                  <l>As water from a Still,</l>
+                  <l>His haire upon his chin,</l>
+                  <l>Grew like tyme upon a hill:</l>
+                  <l>His cherry cheeks were pale as ſnow,</l>
+                  <l>Teſtifying his mickle woe;</l>
+                  <l>And all was for the loſs of her hy nonny nonny no.</l>
+               </lg>
+               <lg n="3">
+                  <pb n="66" facs="tcp:48546:36"/>
+                  <head>3.</head>
+                  <l>Sweet ſhe was, as fond of love,</l>
+                  <l>As ever fettred Swaine;</l>
+                  <l>Never ſuch a bonny one</l>
+                  <l>Shall I enjoy again.</l>
+                  <l>Set ten thouſand on a row,</l>
+                  <l>Ile forbid that any ſhow</l>
+                  <l>Ever the like of her, hy nonny nonny no.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Fac'd ſhe was of Filbard hew,</l>
+                  <l>And boſom'd like a Swanne:</l>
+                  <l>Back't ſhe was of bended yew,</l>
+                  <l>And waſted by a ſpan.</l>
+                  <l>Haire ſhe had as black as Crow,</l>
+                  <l>From the head unto the toe,</l>
+                  <l>Down down all over, hy nonny nonny no.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>With her Mantle tuckt up high,</l>
+                  <l>She foddered her Flocke,</l>
+                  <l>So buckeſome and alluringly,</l>
+                  <l>Her knee upheld her ſmock;</l>
+                  <l>So nimbly did ſhe uſe to goe,</l>
+                  <l>So ſmooth ſhe danc'd on tip-toe,</l>
+                  <l>That all men were fond of her, hy nonny nonny no.</l>
+               </lg>
+               <lg n="6">
+                  <pb n="67" facs="tcp:48546:36"/>
+                  <head>6.</head>
+                  <l>She ſimpred like a Holy-day,</l>
+                  <l>And ſmiled like a Spring,</l>
+                  <l>She pratled like a Popinjay,</l>
+                  <l>And like a Swallow ſing.</l>
+                  <l>She tript it like a barren Doe,</l>
+                  <l>And ſtrutted like a Gar-crowe:</l>
+                  <l>Which made me ſo fond of her, hy, &amp;c.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>To trip it on the merry Down,</l>
+                  <l>To dance the lively Hay,</l>
+                  <l>To wraſtle for a green Gown,</l>
+                  <l>In heat of all the day,</l>
+                  <l>Never would ſhe ſay me no.</l>
+                  <l>Yet me thought ſhe had though</l>
+                  <l>Never enough of her, hy, &amp;c.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>But gone ſhe is the blitheſt Laſſe</l>
+                  <l>That ever trod on Plain.</l>
+                  <l>What ever hath betided her,</l>
+                  <l>Blame not the Shepheard Swain.</l>
+                  <l>For why, ſhe was her own foe,</l>
+                  <l>And gave her ſelfe the overthrowe,</l>
+                  <l>By being too franke of her hy nonny nonny no.</l>
+               </lg>
+            </div>
+            <div type="ballad">
+               <pb n="68" facs="tcp:48546:37"/>
+               <head>A Ballad on Queen <hi>Elizabeth;</hi>
+               </head>
+               <opener>to the tune of Sallengers round.</opener>
+               <lg>
+                  <l>I Tell you all both great and ſmall,</l>
+                  <l>And I tell you it truely,</l>
+                  <l>That we have a very great cauſe,</l>
+                  <l>Both to lament and crie,</l>
+                  <l>Oh fie, oh fie, oh fie, oh fie,</l>
+                  <l>Oh fie on cruell death;</l>
+                  <l>For he hath taken away from us</l>
+                  <l>Our Queen <hi>Elizabeth.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>He might have taken other folk,</l>
+                  <l>That better might have been miſt,</l>
+                  <l>And let our gratious Queen alone,</l>
+                  <l>That lov'd not a Popiſh Prieſt.</l>
+                  <l>She rul'd this Land alone of her ſelf,</l>
+                  <l>And was beholding to no man.</l>
+                  <l>She bare the waight of all affaires,</l>
+                  <l>And yet ſhe was but a woman.</l>
+               </lg>
+               <lg>
+                  <l>A woman ſaid I? nay that is more</l>
+                  <l>Nor any man can tell,</l>
+                  <l>So chaſte ſhe was, ſo pure ſhe was,</l>
+                  <l>That no man knew it well.</l>
+                  <l>
+                     <pb n="69" facs="tcp:48546:37"/>For whilſt that ſhe liv'd till cruel death</l>
+                  <l>Expoſed her to all.</l>
+                  <l>Wherefore I ſay lament, lament,</l>
+                  <l>Lament both great and ſmall.</l>
+               </lg>
+               <lg>
+                  <l>She never did any wicked thing,</l>
+                  <l>Might make her conſcience prick her,</l>
+                  <l>And ſcorn'd for to ſubmit her ſelf to him</l>
+                  <l>That calls himſelf Chriſts Vicker:</l>
+                  <l>But rather choſe couragiouſly</l>
+                  <l>To fight under Chriſts Banner,</l>
+                  <l>Gainſt Turk and Pope, I and King of <hi>Spain,</hi>
+                  </l>
+                  <l>And all that durſt withſtand her.</l>
+               </lg>
+               <lg>
+                  <l>She was as Chaſte and Beautifull,</l>
+                  <l>And Faire as ere was any;</l>
+                  <l>And had from forain Countreys ſent</l>
+                  <l>Her Suters very many.</l>
+                  <l>Though <hi>Mounſieur</hi> came himſelf from <hi>France,</hi>
+                  </l>
+                  <l>A purpoſe for to woe her,</l>
+                  <l>Yet ſtill ſhe liv'd and dy'd a Maid,</l>
+                  <l>Doe what they could unto her.</l>
+               </lg>
+               <lg>
+                  <l>And if that I had <hi>Argus</hi> eyes,</l>
+                  <l>They were too few to weep,</l>
+                  <l>For our ſweet Queen <hi>Elizabeth,</hi>
+                  </l>
+                  <l>Who now doth lye aſleep:</l>
+                  <l>A ſleep I ſay ſhe now doth lye,</l>
+                  <l>Untill the day of Doome:</l>
+                  <l>But then ſhall awake unto the diſgrace</l>
+                  <l>Of the proud Pope of <hi>Rome.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="ballad">
+               <pb n="70" facs="tcp:48546:38"/>
+               <head>A Ballad on King <hi>James;</hi>
+               </head>
+               <opener>to the tune of When <hi>Arthur</hi> firſt in Court began.</opener>
+               <lg>
+                  <l>WHen <hi>James</hi> in <hi>Scotland</hi> firſt began,</l>
+                  <l>And there was crowned King,</l>
+                  <l>He was not much more then a ſpan,</l>
+                  <l>All in his clouts ſwadling.</l>
+               </lg>
+               <lg>
+                  <l>But when he waxed into yeares,</l>
+                  <l>And grew to be ſomewhat tall,</l>
+                  <l>And told his Lords, a Parliament</l>
+                  <l>He purpoſed to call.</l>
+               </lg>
+               <lg>
+                  <l>That's over<g ref="char:punc">▪</g> much quoth <hi>Douglas</hi> though,</l>
+                  <l>For thee to doe I feare,</l>
+                  <l>For I am Lord Protector yet,</l>
+                  <l>And will be one halfe yeare.</l>
+               </lg>
+               <lg>
+                  <l>It pleaſeth me well, quoth the King,</l>
+                  <l>What thou haſt ſaid to me,</l>
+                  <l>But ſince thou ſtandeſt on ſuch tearmes,</l>
+                  <l>Ile prove as ſtrict to thee.</l>
+               </lg>
+               <lg>
+                  <l>And well he rul'd and well he curb'd</l>
+                  <l>Both <hi>Douglas</hi> and the reſt;</l>
+                  <l>Till Heaven with better Fortune and Power,</l>
+                  <l>Had him to <hi>England</hi> bleſt.</l>
+               </lg>
+               <lg>
+                  <pb n="71" facs="tcp:48546:38"/>
+                  <l>Then into <hi>England</hi> ſtraight he came</l>
+                  <l>As faſt as he was able,</l>
+                  <l>Where he made many a Carpet Knight,</l>
+                  <l>Though none of the Round Table.</l>
+               </lg>
+               <lg>
+                  <l>And when he entered <hi>Barwicke</hi> Town,</l>
+                  <l>Where all in peace he found:</l>
+                  <l>But when that roaring Megge went off,</l>
+                  <l>His Grace was like to ſwound.</l>
+               </lg>
+               <lg>
+                  <l>Then up to <hi>London</hi> ſtraight he came,</l>
+                  <l>Where he made no long ſtay,</l>
+                  <l>But ſoon returned back again,</l>
+                  <l>To meet his Queen by th' way.</l>
+               </lg>
+               <lg>
+                  <l>And when they met, ſuch tilting was,</l>
+                  <l>The like was never ſeen;</l>
+                  <l>The Lords at each others did run,</l>
+                  <l>And neer a tilt between.</l>
+               </lg>
+               <lg>
+                  <l>Their Horſes backs were under them,</l>
+                  <l>And that was no great wonder,</l>
+                  <l>The wonder was to ſee them run,</l>
+                  <l>And break no Staves in ſunder.</l>
+               </lg>
+               <lg>
+                  <l>They ran full ſwift and coucht their Speares,</l>
+                  <l>O ho quoth the Ladies then,</l>
+                  <l>
+                     <pb n="72" facs="tcp:48546:39"/>They run for ſhew, quoth the people though,</l>
+                  <l>And not to hurt the men.</l>
+               </lg>
+               <lg>
+                  <l>They ſmote full hard at Barriers too,</l>
+                  <l>You might have heard the ſound,</l>
+                  <l>As farre as any man can goe,</l>
+                  <l>When both his legges are bound.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <g ref="char:V">Ʋ</g>pon the death of a <hi>Chandler.</hi>
+               </head>
+               <lg>
+                  <l>THe Chandler grew neer his end,</l>
+                  <l>Pale Death would not ſtand his friend;</l>
+                  <l>But tooke it in ſoul ſnuff,</l>
+                  <l>As having tarryed long enough:</l>
+                  <l>Yet left this not to be forgotten,</l>
+                  <l>Death and the Chandler could not cotton.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="73" facs="tcp:48546:39"/>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>FArre in the Forreſt of <hi>Arden,</hi>
+                  </l>
+                  <l>There dwelt a Knight hight <hi>Caſſimen,</hi>
+                  </l>
+                  <l>As bold as <hi>Iſenbras:</hi>
+                  </l>
+                  <l>Fell he was and eager bent</l>
+                  <l>In battaile and in Turnament,</l>
+                  <l>As was the good Sr. <hi>Topas.</hi>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>He had (as Antique ſtories tell)</l>
+                  <l>A daughter cleped <hi>Dowſabell,</hi>
+                  </l>
+                  <l>A Maiden faire and free,</l>
+                  <l>Who, cauſe ſhe was her fathers heire,</l>
+                  <l>Full well ſhe was y-tought the leire</l>
+                  <l>Of mickle courteſie.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>The Silke well could ſhe twiſt and twine,</l>
+                  <l>And make the fine Marchpine,</l>
+                  <l>And with the needle work.</l>
+                  <l>And ſhe could help the Prieſt to ſay</l>
+                  <l>His Mattins on a Holy-day,</l>
+                  <l>And ſing a Pſalme in Kirk.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="74" facs="tcp:48546:40"/>
+                  <head>4.</head>
+                  <l>Her Frocke was of the frolique Green,</l>
+                  <l>(Mought well become a Mayden Queen)</l>
+                  <l>Which ſeemely was to ſee:</l>
+                  <l>Her Hood to it was neat and fine,</l>
+                  <l>In colour like the Columbine,</l>
+                  <l>y-wrought full <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eatuouſly.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>This Maiden in a morne betime,</l>
+                  <l>Went forth when <hi>May</hi> was in her prime,</l>
+                  <l>To get ſweet Scettuall,</l>
+                  <l>The Hony ſuckle, the Horelock,</l>
+                  <l>The Lilly, and the Ladies-Smock,</l>
+                  <l>To dight her ſummer Hall.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>And as ſhe romed here, and there,</l>
+                  <l>Y-picking of the bloomed brier,</l>
+                  <l>She chanced to eſpie</l>
+                  <l>A Shepheard ſitting on a bank,</l>
+                  <l>Like Chanticleere he crowed crank,</l>
+                  <l>And pip'd with merry glee.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>He leerd his Sheep as he him liſt,</l>
+                  <l>When he would whiſtle in his fiſt,</l>
+                  <l>To feed about him round,</l>
+                  <l>
+                     <pb n="75" facs="tcp:48546:40"/>Whilſt he full many a Caroll ſung,</l>
+                  <l>That all the fields, and meadowes rung,</l>
+                  <l>And made the woods reſound.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>In favour this ſame Shepheard Swaine</l>
+                  <l>Was like the Bedlam Tamerlaine,</l>
+                  <l>That kept proud Kings in awe.</l>
+                  <l>But meek he was as meek mought be,</l>
+                  <l>Yea like the gentle <hi>Abell,</hi> he</l>
+                  <l>Whom his lewd brother ſlew.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>This Shepheard ware a freeze-gray Cloake,</l>
+                  <l>The which was of the fineſt locke,</l>
+                  <l>That could be cut with Sheere:</l>
+                  <l>His Aule and Lingell in a Thong,</l>
+                  <l>His Tar-box by a broad belt hung,</l>
+                  <l>His Cap of Minivere.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>His Mittens were of Bauſons skin,</l>
+                  <l>His Cockers were of Cordowin,</l>
+                  <l>His Breech of country blew:</l>
+                  <l>All curle, and criſped were his Locks,</l>
+                  <l>His brow more white then <hi>Albion</hi> Rocks:</l>
+                  <l>So like a Lover true.</l>
+               </lg>
+               <lg n="11">
+                  <pb n="76" facs="tcp:48546:41"/>
+                  <head>11.</head>
+                  <l>And piping he did ſpend the day,</l>
+                  <l>As merry as a Popinjay,</l>
+                  <l>Which lik'd faire <hi>Dowſabell,</hi>
+                  </l>
+                  <l>That wod ſhe ought, or wod ſhe nought,</l>
+                  <l>The Shepheard would not from her thought,</l>
+                  <l>In love ſhe longing fell:</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>With that ſhe tucked up her Frock,</l>
+                  <l>(White as the Lilly was her Smock,)</l>
+                  <l>And drew the Shepheard nigh,</l>
+                  <l>But then the Shepheard pip'd a good,</l>
+                  <l>That all his Sheep for ſook their food,</l>
+                  <l>To heare his melody.</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>Thy Sheep (quoth ſhe) cannot be lean,</l>
+                  <l>That have ſo faire a Shepheard Swain,</l>
+                  <l>That can his Pipe ſo well:</l>
+                  <l>I but (quoth he) the Shepheard may,</l>
+                  <l>If Piping thus he pine away,</l>
+                  <l>For love of <hi>Dowſabell.</hi>
+                  </l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>Of love (fond boy) take thou no keep,</l>
+                  <l>Look well (quoth ſhe) unto thy Sheep;</l>
+                  <l>Leſt they ſhould chance to ſtray.</l>
+                  <l>
+                     <pb n="77" facs="tcp:48546:41"/>So had I done (quoth he) full well,</l>
+                  <l>Had I not ſeen faire <hi>Dowſabell,</hi>
+                  </l>
+                  <l>Come forth to gather May.</l>
+               </lg>
+               <lg n="15">
+                  <head>15.</head>
+                  <l>I cannot ſtay (quoth ſhe) till night,</l>
+                  <l>And leave my Summer Hall undight,</l>
+                  <l>And all for love of men.</l>
+                  <l>Yet are you, quoth he, too unkind,</l>
+                  <l>If in your heart you cannot find,</l>
+                  <l>To love us now and then.</l>
+               </lg>
+               <lg n="16">
+                  <head>16.</head>
+                  <l>And I will be to thee as kind,</l>
+                  <l>As <hi>Collin</hi> was to <hi>Roſalinde,</hi>
+                  </l>
+                  <l>Of courteſie the flower.</l>
+                  <l>And I will be as true (quoth ſhe)</l>
+                  <l>As ever Lover yet mought be,</l>
+                  <l>Unto her Paramour.</l>
+               </lg>
+               <lg n="17">
+                  <head>17.</head>
+                  <l>With that the Maiden bent her knee,</l>
+                  <l>Down by the Shepheard kneeled ſhe,</l>
+                  <l>And ſweetly ſhe him kiſt.</l>
+                  <l>But then the Shepheard whoop'd for joy,</l>
+                  <l>(Quoth he) was never Shepheards boy,</l>
+                  <l>That ever was ſo bliſt.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="78" facs="tcp:48546:42"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon the <hi>Scots</hi> being beaten at <hi>Muſcleborough</hi> field.</head>
+               <lg>
+                  <l>ON the twelfth day of <hi>December,</hi>
+                  </l>
+                  <l>In the fourth year of King <hi>Edwards</hi> reign</l>
+                  <l>Two mighty Hoſts (as I remember)</l>
+                  <l>At <hi>Muſcleborough</hi> did pitch on a Plain.</l>
+                  <l>For a down, down, derry derry down, Hey down a.</l>
+                  <l>Down, down, down a down derry.</l>
+               </lg>
+               <lg>
+                  <l>All night our Engliſh men they lodged there,</l>
+                  <l>So did the Scots both ſtout and ſtubborn,</l>
+                  <l>But well-away was all their cheere,</l>
+                  <l>For we have ſerved them in their own turn.</l>
+               </lg>
+               <p>For a downe, &amp;c.</p>
+               <lg>
+                  <l>All night they carded for our <hi>Engliſh</hi> mens Coats,</l>
+                  <l>(They fiſhed before their Nets were ſpun)</l>
+                  <l>
+                     <pb n="79" facs="tcp:48546:42"/>A white for Six-pence, a red for two Groats;</l>
+                  <l>Wiſdome would have ſtayd till they had been won.</l>
+               </lg>
+               <p>For a down, &amp;c.</p>
+               <lg>
+                  <l>On the tewelfth day all in the morn,</l>
+                  <l>They made a fere as if they would fight;</l>
+                  <l>But many a proud <hi>Scot</hi> that day was down born,</l>
+                  <l>And many a rank Coward was put to his flight.</l>
+               </lg>
+               <p>For a down, &amp;c.</p>
+               <lg>
+                  <l>And the Lord <hi>Huntley,</hi> we hadden him there,</l>
+                  <l>With him he brought ten thouſand men:</l>
+                  <l>But God be thanked, we gave him ſuch a Banquet,</l>
+                  <l>He carryed but few of them home agen.</l>
+               </lg>
+               <p>For a down, &amp;c.</p>
+               <lg>
+                  <l>For when he heard our great Guns crack,</l>
+                  <l>Then did his heart fall untill his hoſe,</l>
+                  <l>He threw down his Weapons, he turned his back,</l>
+                  <l>He ran ſo faſt that he fell on his noſe.</l>
+               </lg>
+               <p>For a down, &amp;c.</p>
+               <lg>
+                  <l>We beat them back till <hi>Edenbrough,</hi>
+                  </l>
+                  <l>(There's men alive can witneſſe this)</l>
+                  <l>
+                     <pb n="80" facs="tcp:48546:43"/>But when we lookt our Engliſh men through,</l>
+                  <l>Two hundred good fellowes we did not miſſe.</l>
+               </lg>
+               <p>For a down, &amp;c.</p>
+               <lg>
+                  <l>Now God preſerve <hi>Edward</hi> our King,</l>
+                  <l>With his two Nuncles and Nobles all,</l>
+                  <l>And ſend us Heaven at our ending:</l>
+                  <l>For we have given <hi>Scots</hi> a luſty fall.</l>
+                  <l>For a down, down, derry derry down, Hey,</l>
+                  <l>Down a down down, down a down derry.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Lipps and Eyes.</head>
+               <lg>
+                  <l>IN <hi>Celia</hi> a queſtion did ariſe,</l>
+                  <l>Which were more beautifull her Lippes or Eyes.</l>
+                  <l>We, ſaid the Eyes, ſend forth thoſe pointed darts,</l>
+                  <l>Which pierce the hardeſt Adamantine hearts.</l>
+                  <l>From us, (reply'd the Lipps) proceed the bliſſes</l>
+                  <l>Which Lovers reape by kind words and ſweet kiſſes.</l>
+                  <l>Then wept the Eyes, and from their Springs (did powre</l>
+                  <l>Of liquid Orientall Pearle a ſhowre:</l>
+                  <l>Whereat the Lippes mov'd with delight and pleaſure,</l>
+                  <l>Through a ſweet ſmile unlockt their pearly</l>
+                  <l>And bad Love judge, whether did adde more grace, Treaſure:</l>
+                  <l>Weeping or ſmiling Pearles in <hi>Celia's</hi> face.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="81" facs="tcp:48546:43"/>
+               <head>On black Eyes.</head>
+               <lg>
+                  <l>BLacke Eyes; in your dark Orbs doe lye,</l>
+                  <l>My ill or happy deſtiny,</l>
+                  <l>If with cleer looks you me behold,</l>
+                  <l>You give me Mines and Mounts of Gold;</l>
+                  <l>If you dart forth diſdainfull rayes,</l>
+                  <l>To your own dy, you turn my dayes.</l>
+                  <l>Black Eyes, in your dark Orbes by changes dwell,</l>
+                  <l>My bane or bliſſe, my Paradiſe or Hell.</l>
+               </lg>
+               <lg>
+                  <l>That Lamp which all the Starres doth blind,</l>
+                  <l>Yeelds to your luſtre in ſome kind,</l>
+                  <l>Though you do weare, to make you bright,</l>
+                  <l>No other dreſſe but that of night:</l>
+                  <l>He glitters only in the day.</l>
+                  <l>You in the dark your Beames diſplay.</l>
+               </lg>
+               <p>Black Eyes, &amp;c.</p>
+               <lg>
+                  <l>The cunning Theif, that lurkes for prize,</l>
+                  <l>At ſome dark corner watching lyes;</l>
+                  <l>So that heart-robbing God doth ſtand</l>
+                  <l>In the dark Lobbies, Shaft in hand,</l>
+                  <l>
+                     <pb n="82" facs="tcp:48546:44"/>To rifle me of what I hold</l>
+                  <l>More pretious farre then <hi>Indian</hi> Gold.</l>
+               </lg>
+               <p>Black Eyes, &amp;c.</p>
+               <lg>
+                  <l>Oh powerful Negromantick Eyes,</l>
+                  <l>Who in your circles ſtrictly pries,</l>
+                  <l>Will find that <hi>Cupid</hi> with his dart,</l>
+                  <l>In you doth practice the blacke Art:</l>
+                  <l>And by th' Inchantment I'me poſleſt,</l>
+                  <l>Tryes his concluſion in my breſt.</l>
+               </lg>
+               <p>Black Eyes, &amp;c.</p>
+               <lg>
+                  <l>Look on me though in frowning wiſe,</l>
+                  <l>Some kind of frowns become black eyes,</l>
+                  <l>As pointed Diamonds being ſet,</l>
+                  <l>Caſt greater luſtre out of Jet.</l>
+                  <l>Thoſe pieces we eſteem moſt rare,</l>
+                  <l>Which in night ſhadowes poſtur'd are.</l>
+                  <l>Darkneſſe in Churches congregates the ſight,</l>
+                  <l>Devotion ſtrayes in glaring light.</l>
+                  <l>Black Eyes, in your dark Orbs by changes dwell,</l>
+                  <l>My bane, or bliſſe, my Paradiſe, or Hell.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="83" facs="tcp:48546:44"/>
+               <head>CRVELTY.</head>
+               <lg>
+                  <l>WE read of Kings, and Gods that kindly took</l>
+                  <l>A Pitcher fill'd with water from the Brook.</l>
+                  <l>But I have dayly tendred without thanks,</l>
+                  <l>Rivers of tears that overflow their banks.</l>
+                  <l>A ſlaughtred Bull will appeaſe angry Jove,</l>
+                  <l>A Horſe the Sun, a Lamb the God of Love.</l>
+                  <l>But ſhe diſdains the ſpotleſſe ſacrifice</l>
+                  <l>Of a pure heart that at her Altar lyes:</l>
+                  <l>Veſta's not diſpleas'd if her chaſte Urn</l>
+                  <l>Doe with repaired fuell ever burn;</l>
+                  <l>But my Saint frowns, though to her honoured name</l>
+                  <l>I conſecrate a never dying flame:</l>
+                  <l>Th' <hi>Aſſyrian</hi> King did none ith' furnace throw,</l>
+                  <l>But thoſe that to his Image did not bow:</l>
+                  <l>With bended knees I dayly worſhip her,</l>
+                  <l>Yet ſhe conſumes her own Idolater.</l>
+                  <l>Of ſuch a Goddeſſe no times leave record,</l>
+                  <l>That burnt the Temple where ſhe was ador'd.</l>
+               </lg>
+            </div>
+            <div type="sonnet">
+               <pb n="84" facs="tcp:48546:45"/>
+               <head>A Sonnet.</head>
+               <lg>
+                  <l>WHat ill luck had I, filly Maid that I am,</l>
+                  <l>To be ty'd to a laſting vow;</l>
+                  <l>Or ere to be laid by the ſide of a man,</l>
+                  <l>That woo'd, and cannot tell how;</l>
+                  <l>Down didle down, down didle me.</l>
+                  <l>Oh that I had a Clown that he might down didle me,</l>
+                  <l>With a courage to take mine down.</l>
+               </lg>
+               <lg>
+                  <l>What puniſhment is that man worthy to have,</l>
+                  <l>That thus will preſume to wedde,</l>
+                  <l>He deſerves to be layd alive in his grave,</l>
+                  <l>That woo'd and cannot in bed;</l>
+                  <l>Down didle down down didle me.</l>
+                  <l>Oh that I had a Lad that he might down didle me,</l>
+                  <l>For I feare I ſhall run mad<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="85" facs="tcp:48546:45"/>
+               <head>The <hi>Doctors</hi> Touchſtone.</head>
+               <lg>
+                  <l>I Never did hold, all that gliſters is Gold,</l>
+                  <l>Unleſſe by the Touch it be try'd;</l>
+                  <l>Nor ever could find, that it was a true ſigne,</l>
+                  <l>To judge a man by the outſide.</l>
+                  <l>A poor flaſh of wit, for a time may be fit</l>
+                  <l>To wrangle a queſtion in Schools.</l>
+                  <l>Good dreſſing, gay cloathes, with other fine ſhews,</l>
+                  <l>May ſerve to make painted fools.</l>
+               </lg>
+               <lg>
+                  <l>That man will beguile, in your face that will ſmile,</l>
+                  <l>And court you with Cap and with knee:</l>
+                  <l>And while you're in health, or ſwimming in wealth,</l>
+                  <l>Will vow that your Servant hee'l be.</l>
+                  <l>That man Ile commend, and would have to my friend</l>
+                  <l>If I could tell where to chooſe him,</l>
+                  <l>That wil help me at need, and ſtand me in ſtead,</l>
+                  <l>When I have occaſion to uſe him.</l>
+               </lg>
+               <lg>
+                  <l>doe not him fear, that wil ſwagger &amp; ſweare,</l>
+                  <l>And draw upon every croſs word,</l>
+                  <l>And forth with again if you be rough &amp; plain,</l>
+                  <l>Be contented to put up his ſword.</l>
+                  <l>
+                     <pb n="86" facs="tcp:48546:46"/>Him valiant I deem, that patient can ſeem,</l>
+                  <l>And fights not in every place,</l>
+                  <l>But on good occaſion, without ſeeking evaſion</l>
+                  <l>Durſt look his proud Foe in the face.</l>
+               </lg>
+               <lg>
+                  <l>That Phyſitian ſhal paſs that is all for his glaſs</l>
+                  <l>And no other ſign can ſcan,</l>
+                  <l>Who to practice did hop, from Apothecaries ſhop,</l>
+                  <l>Or ſome old Phyſitians man.</l>
+                  <l>He Phyſick ſhal give to me whilſt I live,</l>
+                  <l>That hath more ſtrings to his Bow,</l>
+                  <l>Experience and learning, with due deſerving,</l>
+                  <l>And will talk on no more then he know.</l>
+               </lg>
+               <lg>
+                  <l>That Lawyer I hate, that wil wrangle &amp; prate,</l>
+                  <l>In a matter not worth the hearing:</l>
+                  <l>And if fees do not come, can be ſilent &amp; dumb,</l>
+                  <l>Though the cauſe deſerves but the clearing.</l>
+                  <l>That Lawyer's for me, that's not all for his ſee,</l>
+                  <l>But will do his utmoſt endeavour</l>
+                  <l>To ſtand for the right, and tug againſt might,</l>
+                  <l>And lift the truth as with a Leaver.</l>
+               </lg>
+               <lg>
+                  <l>The Spark I do ſcorn, that's only well born,</l>
+                  <l>And brags of his antient houſe,</l>
+                  <l>Yet his birth cannot fit, with money nor wit,</l>
+                  <l>But feeds on his friends like a Louſe,</l>
+                  <l>That man I more prize, that by vertue doth riſe</l>
+                  <l>Unto ſome worthy degree,</l>
+                  <l>
+                     <pb n="87" facs="tcp:48546:46"/>That by breeding hath got, what by birth he (had not,</l>
+                  <l>A carriage that's noble and free.</l>
+               </lg>
+               <lg>
+                  <l>I care not for him, that in riches d th ſwimme,</l>
+                  <l>And flants it in every faſhion,</l>
+                  <l>That brags of his Grounds and prates of his Hounds,</l>
+                  <l>And his buſineſſe is all recreation.</l>
+                  <l>For him I will ſtand, that hath wit with his Land,</l>
+                  <l>And will ſweat for his Countreys good,</l>
+                  <l>That wil ſtick to the Laws, and in a good cauſe</l>
+                  <l>Will adventure to ſpend his heart-blood.</l>
+               </lg>
+               <lg>
+                  <l>That man I deſpiſe, that thinks himſelf wiſe,</l>
+                  <l>Becauſe he can talk at Table,</l>
+                  <l>And at a rich feaſt break forth a poor jeſt,</l>
+                  <l>To the laughter of others more able.</l>
+                  <l>No, he hath more wit, that ſilent can ſit,</l>
+                  <l>Yet knowes well enough how to do it,</l>
+                  <l>That ſpeaks with reaſon, &amp; laughs in due ſeaſo<g ref="char:cmbAbbrStroke">̄</g>
+                  </l>
+                  <l>And when he is mov'd unto it.</l>
+               </lg>
+               <lg>
+                  <l>I care not a fly, for a houſe that's built high,</l>
+                  <l>And yeelds not a cup of good beer,</l>
+                  <l>Where ſcraps you may find, while Veniſon's in kind</l>
+                  <l>For a week or two in a yeare.</l>
+                  <l>He a better houſe keeps, that every night ſleeps</l>
+                  <l>Under a Covert of thatch,</l>
+                  <l>Where's good Beef from the Stall, and a fire in the Hall,</l>
+                  <l>Where you need not to ſcramble nor ſnatch.</l>
+               </lg>
+               <lg>
+                  <pb n="88" facs="tcp:48546:47"/>
+                  <l>Then lend me your Touch, for diſſembling (there's much,</l>
+                  <l>Ile try them before I do truſt.</l>
+                  <l>For a baſe needy Slave, in ſhew may be brave,</l>
+                  <l>And a ſliding Companion ſeem juſt.</l>
+                  <l>The man that's down right, in heart &amp; in ſight,</l>
+                  <l>Whoſe life and whoſe looks doth agree,</l>
+                  <l>That ſpeaks what he thinks, and ſleeps when (he winks,</l>
+                  <l>O that's a companion for me.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>A copy of Verſes of a mony Marriage.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>NO Gypſie nor no Blackamore,</l>
+                  <l>No Bloomesbery, nor Turnbald whore,</l>
+                  <l>Can halſe ſo black, ſo foule appeare,</l>
+                  <l>As ſhe I choſe to be my Deare.</l>
+                  <l>She's wrinkled, old, ſhe's dry, ſhe's tough,</l>
+                  <l>Yet money makes her faire enough.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Nature's hand ſhaking did diſpoſe,</l>
+                  <l>Her cheeks faire red unto her noſe,</l>
+                  <l>Which ſhined like that wanton light,</l>
+                  <l>Miſguideth wanderers in the night.</l>
+                  <l>Yet for all this I do not care,</l>
+                  <l>Though ſhe be foul, her money's faire.</l>
+               </lg>
+               <lg n="3">
+                  <pb n="89" facs="tcp:48546:47"/>
+                  <head>3.</head>
+                  <l>Her tangled Locks do ſhow to ſight,</l>
+                  <l>Like Horſes manes, whom haggs affright.</l>
+                  <l>Her Boſome through her vaile of Lawne,</l>
+                  <l>Shews more like Pork, her Neck like Brawn.</l>
+                  <l>Yet for all this I do not care,</l>
+                  <l>Though ſhe be foul, her money's faire.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Her teeth, to boaſt the Barbers fame,</l>
+                  <l>Hang all up in his wooden frame.</l>
+                  <l>Her lips are hairy, like the skin</l>
+                  <l>Upon her browes, as lank as thin.</l>
+                  <l>Yet for all this I do not care,</l>
+                  <l>Though ſhe be foul, her money's faire.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Thoſe that her company do keep,</l>
+                  <l>Are rough hoarſe coughs, to break my ſleep.</l>
+                  <l>The Palſie, Gout, and Pluriſie,</l>
+                  <l>And I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iue in her legge and thigh.</l>
+                  <l>Yet me it grieves not, who am ſure</l>
+                  <l>That Gold can all diſeaſes cure.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Then young men do not jeere my lot,</l>
+                  <l>That beauty left, and money got:</l>
+                  <l>For I have all things having Gold,</l>
+                  <l>And beauty too, ſince beautie's ſold.</l>
+                  <l>For Gold by day ſhall pleaſe my ſight,</l>
+                  <l>When all her faults lye hid at night.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="90" facs="tcp:48546:48"/>
+               <head>The baſeneſſe of Whores.</head>
+               <lg>
+                  <l>TRuſt no more, a wanton Whore,</l>
+                  <l>If thou lov'ſt health and freedom,</l>
+                  <l>They are ſo baſe, in every place,</l>
+                  <l>It's pity that bread ſhould feed 'um.</l>
+                  <l>All their fence, is impudence,</l>
+                  <l>Which ſome call good conditions.</l>
+                  <l>Stink they do, above ground too,</l>
+                  <l>Of Chirurgions and Phyſitians.</l>
+               </lg>
+               <lg>
+                  <l>If you are nice, they have their ſpice,</l>
+                  <l>On which they'le chew to flout you,</l>
+                  <l>And if you not diſcern the plot,</l>
+                  <l>You have no Noſe about you.</l>
+                  <l>Furthermore, they have in ſtore,</l>
+                  <l>For which I deadly hate 'um,</l>
+                  <l>Perſumed geare, to ſtuffe each eare,</l>
+                  <l>And for their cheeks Pomatum.</l>
+               </lg>
+               <lg>
+                  <l>Liquoriſh Sluts, they feaſt their guts,</l>
+                  <l>At Chuffs coſt, like Princes,</l>
+                  <l>Amber Plumes, and Mackarumes,</l>
+                  <l>And coſtly candy'd Quinces.</l>
+                  <l>Potato plump, ſupports the Rump,</l>
+                  <l>Eringo ſtrengthens nature.</l>
+                  <l>Viper Wine, ſo heats the chine,</l>
+                  <l>They'le gender with a Satyr,</l>
+               </lg>
+               <lg>
+                  <pb n="91" facs="tcp:48546:48"/>
+                  <l>Names they own were never known</l>
+                  <l>Throughout their generation,</l>
+                  <l>Noblemen are kind to them,</l>
+                  <l>At leaſt by approbation:</l>
+                  <l>Many dote on one gay Coat,</l>
+                  <l>But mark what there is ſtampt on't,</l>
+                  <l>A ſtone Horſe wild, with toole defil'd,</l>
+                  <l>Two Goats, a Lyon rampant.</l>
+               </lg>
+               <lg>
+                  <l>Truth to ſay, Paint and Array,</l>
+                  <l>Makes them ſo highly prized.</l>
+                  <l>Yet not one well, of ten can tell,</l>
+                  <l>If ever they were baptized.</l>
+                  <l>And if not, then tis a blot,</l>
+                  <l>Paſt cure of Spunge or Laver:</l>
+                  <l>And we may ſans queſtion ſay</l>
+                  <l>The Divel was their God-father.</l>
+               </lg>
+               <lg>
+                  <l>Now to leave them, he receive them,</l>
+                  <l>Whom they moſt confide in,</l>
+                  <l>Whom that is, aske <hi>Tib</hi> or <hi>Sis,</hi>
+                  </l>
+                  <l>Or any whom next you ride in<g ref="char:punc">▪</g>
+                  </l>
+                  <l>If in ſooth, ſhe ſpeaks the truth,</l>
+                  <l>She ſayes excuſe I pray you,</l>
+                  <l>The beaſt you ride, where I confide,</l>
+                  <l>Will in due time convey you.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="92" facs="tcp:48546:49"/>
+               <head>A Lover diſcloſing his love to his <hi>Miſtris.</hi>
+               </head>
+               <lg>
+                  <l>LEt not ſweet <hi>St.</hi> let not theſe eyes offend you,</l>
+                  <l>Nor yet the meſſage, that theſe lines impart,</l>
+                  <l>The meſſage my unfeined love doth ſend you,</l>
+                  <l>Love that your ſelf hath planted in my heart.</l>
+               </lg>
+               <lg>
+                  <l>For being charm'd by the bewitching art</l>
+                  <l>Of thoſe inveigling graces that attend you:</l>
+                  <l>Love's holy fire kindled hath in part</l>
+                  <l>Theſe never-dying flames, my breaſt doth ſend you.</l>
+               </lg>
+               <lg>
+                  <l>Now if my lines offend, let love be blam'd,</l>
+                  <l>And if my love diſpleaſe, accuſe my eyes,</l>
+                  <l>And if mine eyes ſin, their ſins cauſe only lyes</l>
+                  <l>On your bright eyes, that hath my heart in<g ref="char:EOLhyphen"/>flam'd.</l>
+               </lg>
+               <lg>
+                  <l>Since eyes love, lines erre, then by your directi<g ref="char:EOLhyphen"/>on,</l>
+                  <l>Excuſe my eyes, my lines, and my affection.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="93" facs="tcp:48546:49"/>
+               <head>The contented Priſoner his praiſe of <hi>Sack.</hi>
+               </head>
+               <lg>
+                  <l>HOw happy's that Priſoner</l>
+                  <l>That conquers his fates,</l>
+                  <l>With ſilence, and ne're</l>
+                  <l>On bad fortune complaines,</l>
+                  <l>But careleſſely playes</l>
+                  <l>With his Keyes on the Grates,</l>
+                  <l>And makes a ſweet conſort</l>
+                  <l>With them and his chayns.</l>
+                  <l>He drowns care with Sack,</l>
+                  <l>When his thoughts are oppreſt,</l>
+                  <l>And makes his heart float,</l>
+                  <l>Like a Cork in his Breaſt.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="94" facs="tcp:48546:50"/>
+               <head>The Chorus.</head>
+               <lg>
+                  <head>Then,</head>
+                  <l>Since we are all ſlaves,</l>
+                  <l>That Ilanders be,</l>
+                  <l>And our Land's a large priſon,</l>
+                  <l>Inclos'd with the Sea:</l>
+                  <l>Wee'l drink up the Ocean,</l>
+                  <l>To ſet our ſelves free,</l>
+                  <l>For man is the World's Epitome.</l>
+               </lg>
+               <lg>
+                  <l>Let Pirates weare Purple,</l>
+                  <l>Deep dy'd in the blood</l>
+                  <l>Of thoſe they have ſlain,</l>
+                  <l>The Scepter to ſway.</l>
+                  <l>If our conſcience be cleere,</l>
+                  <l>And our title be good,</l>
+                  <l>With the rags we have on us,</l>
+                  <l>We are richer then they.</l>
+                  <l>We drink down at night,</l>
+                  <l>What we beg or can borrow,</l>
+                  <l>And ſleep without plotting</l>
+                  <l>For more the next morrow.</l>
+               </lg>
+               <p>Since we, &amp;c.</p>
+               <lg>
+                  <l>Let the Uſurer watch</l>
+                  <l>Ore his bags and his houſe,</l>
+                  <l>
+                     <pb n="95" facs="tcp:48546:50"/>To keep that from Robbers,</l>
+                  <l>He hath rackt from his debtors,</l>
+                  <l>Each midnight cries Theeves,</l>
+                  <l>At the noyſe of a mouſe,</l>
+                  <l>Then ſee that his Trunks</l>
+                  <l>Be faſt bound in their Fetters.</l>
+                  <l>When once he's grown rich enough</l>
+                  <l>For a State plot,</l>
+                  <l>Buff in an hower plunders</l>
+                  <l>What threeſcore years got.</l>
+               </lg>
+               <p>Since we, &amp;c.</p>
+               <lg>
+                  <l>Come Drawer fill each man</l>
+                  <l>A peck of Canary,</l>
+                  <l>This Brimmer ſhall bid</l>
+                  <l>All our ſenſes good-night.</l>
+                  <l>When old <hi>Ariſtotle</hi>
+                  </l>
+                  <l>Was frolick and merry,</l>
+                  <l>By the juice of the Grape,</l>
+                  <l>He turn'd Stsgarite.</l>
+                  <l>
+                     <hi>Copernicus</hi> once</l>
+                  <l>In a drunken fit found,</l>
+                  <l>By the coruſe of his brains,</l>
+                  <l>That the world turn'd round.</l>
+               </lg>
+               <p>Since we, &amp;c.</p>
+               <lg>
+                  <pb n="96" facs="tcp:48546:51"/>
+                  <l>'Tis Sack makes our faces</l>
+                  <l>Like Comets to ſhine,</l>
+                  <l>And gives beauty beyond</l>
+                  <l>The Complexion mask,</l>
+                  <l>
+                     <hi>Diogenes</hi> fell ſo</l>
+                  <l>In love with this Wine,</l>
+                  <l>That when 'twas all out,</l>
+                  <l>He dwelt in the Cask.</l>
+                  <l>He liv'd by the ſent</l>
+                  <l>Of this Wainſcoated Room;</l>
+                  <l>And dying deſir'd</l>
+                  <l>The Tub for his Tombe.</l>
+               </lg>
+               <p>Since we, &amp;c.</p>
+            </div>
+            <div type="poem">
+               <pb n="97" facs="tcp:48546:51"/>
+               <head>Of DESIRE.</head>
+               <lg>
+                  <l>FIre, Fire!</l>
+                  <l>O how I burn in my deſire.</l>
+                  <l>For all the teares that I can ſtrain</l>
+                  <l>Out of my empty love-ſick brain,</l>
+                  <l>Cannot aſſwage my ſcorching pain.</l>
+                  <l>Come Humber, Trent, and ſilver Thames,</l>
+                  <l>The dread Ocean haſte with all thy ſtreames,</l>
+                  <l>And if thou can'ſt not quench my fire,</l>
+                  <l>Then drown both me and my Deſire.</l>
+               </lg>
+               <lg>
+                  <l>Fire, Fire!</l>
+                  <l>Oh there's no hell to my deſire.</l>
+                  <l>See how the Rivers backward lye,</l>
+                  <l>The Ocean doth his tide deny,</l>
+                  <l>For feare my flames ſhould drink them drye.</l>
+                  <l>Come heav'nly ſhowers, come pouring down,</l>
+                  <l>You all that once the world did drown.</l>
+                  <l>You then ſav'd ſome, and now ſave all,</l>
+                  <l>Which elſe would burn, and with me fall.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="98" facs="tcp:48546:52"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon kinde and true Love.</head>
+               <lg>
+                  <l>'TIs not how witty, nor how free,</l>
+                  <l>Nor yet how beautifull ſhe be,</l>
+                  <l>But how much kinde and true to me.</l>
+                  <l>Freedome and Wit none can confine,</l>
+                  <l>And Beauty like the Sun doth ſhine,</l>
+                  <l>But kinde and true are onely mine.</l>
+               </lg>
+               <lg>
+                  <l>Let others with attention ſit,</l>
+                  <l>To liſten, and admire her wit,</l>
+                  <l>That is a rock where Ile not ſplit,</l>
+                  <l>Let others dote upon her eyes<g ref="char:punc">▪</g>
+                  </l>
+                  <l>And burn their hearts for ſacrifice,</l>
+                  <l>Beauty's a calm where danger lyes.</l>
+               </lg>
+               <lg>
+                  <l>But Kinde and True have been long try'd,</l>
+                  <l>And harbour where we may confide,</l>
+                  <l>And ſafely there at anchor ride.</l>
+                  <l>From change of winds there we are free,</l>
+                  <l>And need not fear Storme's tyrannie,</l>
+                  <l>Nor Pirat, though a Prince he be.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="99" facs="tcp:48546:52"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon his Constant Miſtreſſe.</head>
+               <lg>
+                  <l>SHe's not the faireſt of her name,</l>
+                  <l>But yet ſhe conquers more than all the race,</l>
+                  <l>For ſhe hath other motives to inflame,</l>
+                  <l>Beſides a lovely face.</l>
+                  <l>There's Wit and Conſtancy,</l>
+                  <l>And Charms, that ſtrikes the ſoule more than (the Eye.</l>
+                  <l>'Tis no eaſie lover knowes how to diſcover</l>
+                  <l>Such Divinity.</l>
+               </lg>
+               <lg>
+                  <l>And yet ſhe is an eaſie book,</l>
+                  <l>Written in plain language for the meaner wit,</l>
+                  <l>A ſtately garb, and a gracious look,</l>
+                  <l>With all things juſtly fit.</l>
+                  <l>But age will undermine</l>
+                  <l>This glorious out-ſide, that appeares ſo fine,</l>
+                  <l>When the common Lover</l>
+                  <l>Shrinks and gives her over,</l>
+                  <l>Then ſhe's onely mine.</l>
+               </lg>
+               <lg>
+                  <l>To the Platonick that applies</l>
+                  <l>His clear addreſſes onely to the mind;</l>
+                  <l>The body but a Temple ſignifies,</l>
+                  <l>Wherein the Saints inſhrin'd,</l>
+                  <l>To him it is all one,</l>
+                  <l>Whether the walls be marble, or rough ſtone;</l>
+                  <l>Nay in holy places, which old time defaces,</l>
+                  <l>More devotion's ſhown.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="100" facs="tcp:48546:53"/>
+               <head>The Ghoſt-Song.</head>
+               <lg>
+                  <l>'TIs late and cold, ſtir up the fire,</l>
+                  <l>Sit cloſe, and draw the table nigher,</l>
+                  <l>Be merry, and drink wine that's old,</l>
+                  <l>A hearty medicine 'gainſt the cold;</l>
+                  <l>Your bed of wanton down the beſt,</l>
+                  <l>Where you may tumble to your reſt:</l>
+                  <l>I could well wiſh you wenches too,</l>
+                  <l>But I am dead, and cannot do.</l>
+                  <l>Call for the beſt, the houſe will ring,</l>
+                  <l>Sack, White and Claret, let them bring,</l>
+                  <l>And drink apace, whilſt breath you have,</l>
+                  <l>You'l finde but cold drinking in the grave:</l>
+                  <l>Partridge, Plover for your dinner,</l>
+                  <l>And a Capon for the ſinner,</l>
+                  <l>You ſhall finde ready when you are up,</l>
+                  <l>And your horſe ſhall have his ſup.</l>
+                  <l>Welcome, welcome, ſhall flie round,</l>
+                  <l>And I ſhall ſmile, though under ground.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>You that delight in Trulls and Minions,</hi>
+                  </l>
+                  <l>Come buy my four ropes of St. <hi>Omers</hi> Onions.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:48546:53"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
